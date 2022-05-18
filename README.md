@@ -24,6 +24,7 @@ SpriteCloud is a consultancy providing software testing services & test results 
   - Automated vulnerability and security testing with a ***Zaproxy*** & ***Burp Suite***
   - Web UI Automation with **Cypress**
   - Test Automation with **Jest**
+  - Automated bug reporting with ***Jira*** & ***Trello*** integration
 - Published a ***[Java Utility library](https://github.com/Umutayb/Java-Utilities)***.
 - Published a ***[Mobile UI Test Automation Template](https://github.com/Umutayb/Mobile-Automation-Sample)*** which is utilizing my own mobile automation library ***[Mobileib](https://github.com/Umutayb/Mobileib)***, built on **Java & Appium** which is capable of ***parallel test execution*** (with multithreading and/or by browserstack).
 - Published an ***[Api Automation Template](https://github.com/Umutayb/Api-Automation-Sample)*** which is utilizing my own api automation library ***[Api Assured](https://github.com/Umutayb/Api-Assured)***, built on ***Java***, ***Retrofit2*** & ***OkHttp3*** which is capable of ***parallel test execution***, ***request interception*** & ***advanced header management***.
