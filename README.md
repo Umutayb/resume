@@ -4,7 +4,7 @@ _Software Automation Engineer_ <br>
 
 _[Email](mailto:umutaybora@gmail.com) / [LinkedIn](https://www.linkedin.com/in/umutayb/) / [GitHub](https://github.com/Umutayb)_
 
-##WORK EXPERIENCE
+## WORK EXPERIENCE
 
 **Technical Test Lead** @ [citizenM hotels](https://www.spritecloud.com) _(01.03.2022 - Present)_ <br>
 CitizenM is a Netherlands-based hotel developer, investor, and hotel chain.
