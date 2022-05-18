@@ -16,7 +16,10 @@ CitizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 
 **Test Automation Engineer** ***@ [spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - Present)_ <br>
 SpriteCloud is a consultancy providing software testing services & test results dashboards. 
-- I have focused on expanding my knowledge on additional CI tools and automation frameworks such as ***Gitlab CI***, Parallelization with ***Knapsack*** (Cypress, Jest, RSpec etc.), Automated vulnerability and security testing with a ***Zaproxy*** & ***Burp Suite***
+- I have focused on expanding my knowledge on additional CI tools and automation frameworks such as 
+  - ***Gitlab CI***
+  - Parallelization with ***Knapsack*** (Cypress, Jest, RSpec etc.)
+  - Automated vulnerability and security testing with a ***Zaproxy*** & ***Burp Suite***
 - Published a ***[Java Utility library](https://github.com/Umutayb/Java-Utilities)***.
 - Published a ***[Mobile UI Test Automation Template](https://github.com/Umutayb/Mobile-Automation-Sample)*** which is utilizing my own mobile automation library [Mobileib](https://github.com/Umutayb/Mobileib), built on **Java & Appium** which is capable of ***parallel test execution*** (with multithreading and/or by browserstack).
 - Published an ***[Api Automation Template](https://github.com/Umutayb/Api-Automation-Sample)*** which is utilizing my own api automation library ***[Api Assured](https://github.com/Umutayb/Api-Assured)***, built on ***Java***, ***Retrofit2*** & ***OkHttp3*** which is capable of ***parallel test execution***, ***request interception*** & ***advanced header management***.
@@ -36,7 +39,7 @@ Getir is a technology company that provides solutions to the delivery of goods i
 - On each project I have worked on, I have implemented parallel execution as standard.
 - I have written an experimental automation framework which automatically acquires all the elements & every attribute of each element along with an automatically generated xPath for each element to a project json file which is then interpreted by the framework, providing an automation solution which does not require the tester to inspect the page at all.
 - For UI automation, I have utilised web components which would greatly reduce repetitive code written in automation projects.
-- I have helped over **50 Quality Assurance engineers** working for Getir to **learn test automation** by giving a three weeks long bootcamp on automating web applications.
+- I have helped over **50 Quality Assurance engineers** working for Getir to **learn test automation** by giving a three weeks long bootcamp on automating web applications. Sessions were captured & are being used to further educate their staff.
 <br><br>
 
 **Software Test Automation Engineer** ***@ [Pixery](https://www.pixerylabs.com)*** _(15.07.2020 - 02.06.2021)_ <br>
