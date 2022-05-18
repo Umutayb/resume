@@ -11,7 +11,7 @@ CitizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - I was contracted to inspect the entirety of citizenM's quality assurance activities in order to develop a ***TMM*** (Test Maturity Model)
 - Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimizations to be made
 - Helped various teams improve their testing activities 
-- Created a unified test automation approach by providing standard tool of selection for various teams
+- Created a unified test automation approach by providing standard tools of selection for various teams
 - Deployed a clean & efficient api automation solution for the entirety of citizenM's backend services
 
 **Test Automation Engineer** ***@ [spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - Present)_ <br>
@@ -19,7 +19,7 @@ SpriteCloud is a consultancy providing software testing services & test results 
 - I have focused on expanding my knowledge on additional CI tools and automation frameworks such as ***Gitlab CI***, Parallelization with ***Knapsack*** (Cypress, Jest, RSpec etc.), Automated vulnerability and security testing with a ***Zaproxy*** & ***Burp Suite***
 - Published a ***[Java Utility library](https://github.com/Umutayb/Java-Utilities)***.
 - Published a ***[Mobile UI Test Automation Template](https://github.com/Umutayb/Mobile-Automation-Sample)*** which is utilizing my own mobile automation library [Mobileib](https://github.com/Umutayb/Mobileib), built on **Java & Appium** which is capable of ***parallel test execution*** (with multithreading and/or by browserstack).
-- Published an ***[Api Automation Template](https://github.com/Umutayb/Api-Automation-Sample)*** which is utilizing my own api automation library ***[Api Assured](https://github.com/Umutayb/Api-Assured)***, built on Java, Retrofit2 & OkHttp3 which is capable of parallel test execution, request interception & advanced header management.
+- Published an ***[Api Automation Template](https://github.com/Umutayb/Api-Automation-Sample)*** which is utilizing my own api automation library ***[Api Assured](https://github.com/Umutayb/Api-Assured)***, built on ***Java***, ***Retrofit2*** & ***OkHttp3*** which is capable of ***parallel test execution***, ***request interception*** & ***advanced header management***.
 - Improved upon the ***[Web UI Automation Template](https://github.com/Umutayb/Web-Automation-Sample-Cucumber)*** & the web ui automation library ***[Pickleib](https://github.com/Umutayb/Pickleib)*** I had previously published.
 - Improved test result monitoring for all automated tests by using Calliope.pro & Allure in order to provide more insightful test results.
 - Added **Cypress**, **Jest** & **Knapsack** tools to my disposal
