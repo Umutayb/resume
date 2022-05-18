@@ -2,7 +2,9 @@
 
 _Software Automation Engineer_ <br>
 
-_[Email](mailto:umutaybora@gmail.com) / [LinkedIn](https://www.linkedin.com/in/umutayb/) / [GitHub](https://github.com/Umutayb)_
+_[Email](mailto:umutaybora@gmail.com) / [LinkedIn](https://www.linkedin.com/in/umutayb/) / [GitHub](https://github.com/Umutayb)_<br>
+
+I excel at developing automation software that are easy to maintain, highly sustainable & efficient in execution.<br>
 
 ## WORK EXPERIENCE
 
