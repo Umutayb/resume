@@ -36,6 +36,7 @@ Getir is a technology company that provides solutions to the delivery of goods i
 - On each project I have worked on, I have implemented parallel execution as standard.
 - I have written an experimental automation framework which automatically acquires all the elements & every attribute of each element along with an automatically generated xPath for each element to a project json file which is then interpreted by the framework, providing an automation solution which does not require the tester to inspect the page at all.
 - For UI automation, I have utilised web components which would greatly reduce repetitive code written in automation projects.
+- I have helped over **50 Quality Assurance engineers** working for Getir to **learn test automation** by giving a three weeks long bootcamp on automating web applications.
 <br><br>
 
 **Software Test Automation Engineer** ***@ [Pixery](https://www.pixerylabs.com)*** _(15.07.2020 - 02.06.2021)_ <br>
