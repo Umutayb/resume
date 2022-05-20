@@ -36,7 +36,6 @@ SpriteCloud is a consultancy providing software testing services & test results 
 Getir is a technology company that provides solutions to the delivery of goods in urban areas. 
 
 - Here, my work involved ***web automation***, ***BE automation*** & ***BE development*** with ***JPA*** and ***Spring Boot***. We provided testing infrastructures to developers and testers, creating virtual courier services with Docker, preparing easily triggered regression suites and writing BE services for other teams.
-
 - I single-handedly programmed the entire web UI regression suite of one of the sub brands of Getir, while providing scaling solutions by implementing an adaptation of ***Abstract Factory Design Pattern*** enabling the project to support multiple domains of different sub brands of Getir. 
 - We set up CI jobs, and used Portainer slaves to pick up available jobs from Jenkins.
 - I have prepared Quickstart libraries which combined BDD (**Cucumber & Gauge**) and **Page Object Model design**, allowing entire automation frameworks to be set up within minutes, ready to automate scenarios. 
