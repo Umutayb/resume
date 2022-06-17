@@ -16,7 +16,7 @@ CitizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - Created a unified test automation approach by providing standard tools of selection for various teams
 - Deployed a clean & efficient api automation solution for the entirety of citizenM's backend services
 
-**Test Automation Engineer** ***@ [spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - Present)_ <br>
+**Senior Test Automation Engineer** ***@ [spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - Present)_ <br>
 SpriteCloud is a consultancy providing software testing services & test results dashboards. 
 - I have focused on expanding my knowledge on additional CI tools and automation frameworks such as:
   - ***Gitlab CI***
