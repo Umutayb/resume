@@ -8,7 +8,7 @@ I excel at developing automation software that are easy to maintain, highly sust
 
 ## WORK EXPERIENCE
 
-**Technical Test Lead** ***[@ citizenM hotels](https://www.spritecloud.com)*** _(01.03.2022 - Present)_ <br>
+**Technical Test Lead** ***[@ citizenM hotels](https://www.citizenm.com/how-to-citizenm)*** _(01.03.2022 - Present)_ <br>
 CitizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - I was contracted to inspect the entirety of citizenM's quality assurance activities in order to develop a ***TMM*** (Test Maturity Model)
 - Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimizations to be made
