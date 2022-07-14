@@ -12,9 +12,16 @@ I excel at developing automation software that are easy to maintain, highly sust
 CitizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - I was contracted to inspect the entirety of citizenM's quality assurance activities in order to develop a ***TMM*** (Test Maturity Model)
 - Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimizations to be made
-- Helped various teams improve their testing activities 
-- Created a unified test automation approach by providing standard tools of selection for various teams
-- Deployed a clean & efficient api automation solution for the entirety of citizenM's backend services
+- Helped various teams improve their testing activities
+- Helped CitizenM increase the quality of their products by establishing quality standards while detecting points of improvements & vulnerabilities
+- Created a clean, efficient & unified test automation approach by providing standard tools of selection for various teams
+  - Created an api test automation solution for the entirety of citizenM's backend services
+  - Created a web ui test automation solution for citizenM's Website
+  - Created Azure DevOps integrations for the test automation projects
+  - Created the following Slack integrations:
+    - Integrated the pipelines with slack, enabling monitoring of the test statuses
+    - Written a slack bot for posting test results on a dedicated slack channel while enabling remote activation of tests with slash commands
+    - Integrated a test report dashboard (Calliope.pro) with Slack, enabling the test results to be automatically posted on a dedicated Slack channel
 
 **Senior Test Automation Engineer** ***@ [spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - Present)_ <br>
 SpriteCloud is a consultancy providing software testing services & test results dashboards. 
