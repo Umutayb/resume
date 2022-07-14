@@ -17,7 +17,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - Created a ***clean, efficient & unified*** test automation approach while providing standard tools of selection for various teams
   - Created an api test automation solution for the entirety of citizenM's backend services
   - Created a web ui test automation solution for citizenM's Website
-  - Created ***Azure DevOps*** integrations for the test automation projects
+  - Established continuous integration for the test automation projects by using ***Azure DevOps*** 
   - Created the following ***Slack integrations:***
     - ***Integrated Azure pipelines with slack***, enabling monitoring of the test statuses
     - ***Written a slack bot*** for posting test results on a dedicated slack channel while enabling remote activation of tests with slash commands
