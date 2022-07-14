@@ -1,6 +1,6 @@
 # Umut Ay Bora
 
-_Software Automation Engineer_ <br>
+_Technical Test Lead & Senior Software Automation Engineer_ <br>
 
 _[Email](mailto:umutaybora@gmail.com) / [LinkedIn](https://www.linkedin.com/in/umutayb/) / [GitHub](https://github.com/Umutayb)_<br>
 
@@ -9,11 +9,11 @@ I excel at developing automation software that are easy to maintain, highly sust
 ## WORK EXPERIENCE
 
 **Technical Test Lead** ***[@ citizenM hotels](https://www.citizenm.com/how-to-citizenm)*** _(01.03.2022 - Present)_ <br>
-CitizenM is a Netherlands-based hotel developer, investor, and hotel chain.
+citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - I was contracted to inspect the entirety of citizenM's quality assurance activities in order to develop a ***TMM*** (Test Maturity Model)
 - Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimizations to be made
 - Helped various teams improve their testing activities
-- Helped CitizenM increase the quality of their products by establishing quality standards while detecting points of improvements & vulnerabilities
+- Helped citizenM increase the quality of their products by establishing quality standards while detecting points of improvements & vulnerabilities
 - Created a clean, efficient & unified test automation approach by providing standard tools of selection for various teams
   - Created an api test automation solution for the entirety of citizenM's backend services
   - Created a web ui test automation solution for citizenM's Website
