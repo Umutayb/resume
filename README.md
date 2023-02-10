@@ -13,7 +13,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - I was contracted to inspect the entirety of citizenM's quality assurance activities in order to develop a ***TMM*** (Test Maturity Model)
 - Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimizations to be made
 - Helped various teams improve their testing activities
-- I took the initiative to develop a centralised QA approach & managed the QA transition within citizenM
+- Took the initiative to develop a centralised QA approach & managed the QA transition within citizenM
 - Helped citizenM increase the quality of their products by establishing quality standards while detecting points of improvements & vulnerabilities
 - Created a ***clean, efficient, scalable & unified*** test automation approach while providing standard tools of selection for various teams
   - Created an api test automation solution for the entirety of citizenM's backend services
