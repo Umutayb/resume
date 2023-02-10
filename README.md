@@ -4,7 +4,7 @@ _Technical Test Lead & Senior Software Automation Engineer_ <br>
 
 _[Email](mailto:umutaybora@gmail.com) / [LinkedIn](https://www.linkedin.com/in/umutayb/) / [GitHub](https://github.com/Umutayb)_<br>
 
-I excel at developing automation software that are easy to maintain, highly sustainable & efficient in execution. My main objective is to reduce costs of certain tasks by automating them as efficiently as possible. I believe automation is necessary not just for testing but for any task that can benefit from it, and I am up to the task. <br>
+I excel at transforming quality assurance within organisarions and establishing software automations(for test & business) that are easy to maintain, highly sustainable & efficient in execution. My main objective is to optimise quality assurance within organisations while reducing costs of certain tasks by automating them as efficiently as possible. I believe automation is necessary not just for testing but for any task that can benefit from it, and I am up to the task. <br>
 
 ## WORK EXPERIENCE
 
@@ -13,10 +13,12 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - I was contracted to inspect the entirety of citizenM's quality assurance activities in order to develop a ***TMM*** (Test Maturity Model)
 - Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimizations to be made
 - Helped various teams improve their testing activities
+- I took the initiative to develop a centralised QA approach & managed the QA transition within citizenM
 - Helped citizenM increase the quality of their products by establishing quality standards while detecting points of improvements & vulnerabilities
 - Created a ***clean, efficient, scalable & unified*** test automation approach while providing standard tools of selection for various teams
   - Created an api test automation solution for the entirety of citizenM's backend services
   - Created a web ui test automation solution for citizenM's Website
+  - The test automarion solution enabled cross tests between fromtends, backends, databases, customer emails and even the analytics layer.
   - Established continuous integration for the test automation projects by using ***Azure DevOps*** 
   - Created the following ***Slack integrations:***
     - ***Integrated Azure pipelines with slack***, enabling live monitoring of the test runs
