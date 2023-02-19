@@ -3,7 +3,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-remote_theme: BDHU/minimalisttitle: Umut Ay Bora
+remote_theme: BDHU/minimalist
+title: Umut Ay Bora
 logo: /assets/img/logo.png
 description: Software automation at its finest. 
 show_downloads: true
