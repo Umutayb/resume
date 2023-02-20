@@ -13,7 +13,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - Helped various teams improve their testing activities
 - Took the initiative to develop a centralised QA approach & managed the QA transition within citizenM
 - Helped citizenM increase the quality of their products by establishing quality standards while detecting points of improvements & vulnerabilities
-- Created a ***clean, efficient, scalable & unified*** test automation approach while providing test automation solutions for various teams
+- Created ***clean, efficient, scalable & unified*** test automation approach for various teams
   - Created an api test automation solution for the entirety of citizenM's backend services
   - Created a web ui test automation solution for citizenM's Website
   - The test automarion solution enabled cross tests between fromtends, backends, databases, customer emails and even the analytics layer.
