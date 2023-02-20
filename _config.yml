@@ -18,7 +18,7 @@ sidebar:
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/Umutayb
   - name: Email
-    icon: <i class=“fa-solid fa-pen”></i>
+    icon: <i class="fa-solid fa-pen"></i>
     link: mailto:umutaybora@gmail.com
 
 github: [metadata]
