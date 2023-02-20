@@ -1,4 +1,4 @@
-# Umut Ay Bora
+# Technical Test Lead
 
 _Technical Test Lead & Senior Software Automation Engineer_ <br>
 
