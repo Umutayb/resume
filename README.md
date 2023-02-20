@@ -6,7 +6,7 @@ I excel at transforming quality assurance within organisarions and establishing 
 
 ## WORK EXPERIENCE
 
-**Technical Test Lead** ***[@ citizenM hotels](https://www.citizenm.com/how-to-citizenm)*** _(01.03.2022 - Present)_ <br>
+**Technical Test Lead** ***@[citizenM hotels](https://www.citizenm.com/how-to-citizenm)*** _(01.03.2022 - Present)_ <br>
 citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - I was contracted to inspect the entirety of citizenM's quality assurance activities in order to develop a ***TMM*** (Test Maturity Model)
 - Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimizations to be made
@@ -23,7 +23,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
     - ***Written a slack bot*** for posting test results on a dedicated slack channel while enabling remote activation of tests with slash commands
     - Integrated a test report dashboard (Calliope.pro) with Slack, enabling the test results to be automatically posted on a dedicated Slack channel
 
-**Senior Test Automation Engineer** ***@ [spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - Present)_ <br>
+**Senior Test Automation Engineer** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - Present)_ <br>
 SpriteCloud is a consultancy providing software testing services & test results dashboards. 
 - I have focused on expanding my knowledge on additional CI tools and automation frameworks such as:
   - ***Gitlab CI***
@@ -39,7 +39,7 @@ SpriteCloud is a consultancy providing software testing services & test results 
 - Improved test result monitoring for all automated tests by using Calliope.pro & Allure in order to provide more insightful test results.
 <br><br>
 
-**Software QA Automation Engineer** ***@ [Getir](https://www.linkedin.com/company/getir/)*** _(02.06.2021 - 01.12.2021)_ <br>
+**Software QA Automation Engineer** ***@[Getir](https://www.linkedin.com/company/getir/)*** _(02.06.2021 - 01.12.2021)_ <br>
 Getir is a technology company that provides solutions to the delivery of goods in urban areas. 
 
 - Here, my work involved ***web automation***, ***BE automation*** & ***BE development*** with ***JPA*** and ***Spring Boot***. We provided testing infrastructures to developers and testers, creating virtual courier services with Docker, preparing easily triggered regression suites and writing BE services for other teams.
@@ -52,7 +52,7 @@ Getir is a technology company that provides solutions to the delivery of goods i
 - I have helped over **50 Quality Assurance engineers** working for Getir to **learn test automation** by giving a three weeks long bootcamp on automating web applications. Sessions were captured & are being used to further educate their staff.
 <br><br>
 
-**Software Test Automation Engineer** ***@ [Pixery](https://www.pixerylabs.com)*** _(15.07.2020 - 02.06.2021)_ <br>
+**Software Test Automation Engineer** ***@[Pixery](https://www.pixerylabs.com)*** _(15.07.2020 - 02.06.2021)_ <br>
 Pixery is developing next generation mobile applications for content creators.
 
 Worked on both [**Funimate**](https://www.pixerylabs.com) (a social media platform & an advanced video editing tool used by millions of active users every day) & [**Impresso**](https://www.pixerylabs.com) (an all-in-one video editing tool for influencers and businesses).
@@ -63,7 +63,7 @@ Worked on both [**Funimate**](https://www.pixerylabs.com) (a social media platfo
 - Having worked on countless agile projects in the past, I have comprehensive knowledge of testing tools such as; ***Automation Tests written in Java***, built using ***Maven, TestNG, Cucumber, Selenium & Appium***. I have also utilized ***Jenkins CI (/w Groovy)*** for scheduled & triggered automation execution.
 <br><br>
 
-**Software QA Engineer** ***@ [JustSnap](https://justsnap.co)*** _(04.10.2018 – 01.07.2020)_ <br>
+**Software QA Engineer** ***@[JustSnap](https://justsnap.co)*** _(04.10.2018 – 01.07.2020)_ <br>
 Justsnap is providing campaign solutions utilizing its in house receipt scanning technology based on machine learning.
   - Participated in development, QA and BA processes of campaign projects for companies such as P&G, Phillips and Pepsi.
   - I was responsible from quality assurance activities for over **17 campaign projects** we have delivered.
