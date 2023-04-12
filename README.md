@@ -4,6 +4,7 @@ _Senior Software Automation Engineer_ <br>
 
 I excel at transforming quality assurance within organisations and establishing software automations(for test & business) that are continuously integrated, easy to maintain, highly sustainable & efficient in execution. My main objective is to optimise quality assurance within organisations while reducing costs of certain tasks by automating them as efficiently as possible. I believe automation is necessary not just for testing but for any task that can benefit from it, and I am up to the task. <br>
 
+
 ## WORK EXPERIENCE
 
 **Technical Test Lead** ***@[citizenM hotels](https://www.citizenm.com/how-to-citizenm)*** _(01.03.2022 - Present)_ <br>
@@ -32,7 +33,6 @@ SpriteCloud is a consultancy providing software testing services & test results 
   - Web UI Automation with **Cypress**
   - Test Automation with **Jest**
   - Automated bug reporting with ***Jira*** & ***Trello*** integration
-- Published a ***[Java Utility library](https://github.com/Umutayb/Java-Utilities)***.
 - Published a ***[Mobile UI Test Automation Template](https://github.com/Umutayb/Mobile-Automation-Sample)*** which is utilizing my own mobile automation library ***[Mobileib](https://github.com/Umutayb/Mobileib)***, built on **Java & Appium** which is capable of ***parallel test execution*** (with multithreading and/or by browserstack).
 - Published an ***[Api Automation Template](https://github.com/Umutayb/Api-Automation-Sample)*** which is utilizing my own api automation library ***[Api Assured](https://github.com/Umutayb/Api-Assured)***, built on ***Java***, ***Retrofit2*** & ***OkHttp3*** which is capable of ***parallel test execution***, ***request interception*** & ***advanced header management***.
 - Improved upon the ***[Web UI Automation Template](https://github.com/Umutayb/Web-Automation-Sample-Cucumber)*** & the web ui automation library ***[Pickleib](https://github.com/Umutayb/Pickleib)*** I had previously published.
@@ -72,3 +72,31 @@ Justsnap is providing campaign solutions utilizing its in house receipt scanning
   - Implemented flexible web ui test automation solutions that were easy to set up in order to keep up with the fast delivery schedules
     <br><br>
    
+## PERSONAL PROJECTS
+**Pickleib**
+
+Pickleib is a utility library for software automation projects. It helps design and run tests with Selenium WebDriver in a simple and efficient way. It provides a set of utilities and ready to go driver setup that provide great convenience for designing test automations, such as clean API capabilities, POM support, email test capability, database connection, data layer and event tests. 
+
+Check out the latest version
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/Pickleib?color=brightgreen&label=Pickleib)](https://mvnrepository.com/artifact/io.github.umutayb/Pickleib/latest)
+
+And for mobile (Appium)  
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/Mobileib?color=brightgreen&label=Mobileib)](https://mvnrepository.com/artifact/io.github.umutayb/Mobileib/latest)
+
+**Java Utilities**
+
+Utilities library is a collection of utility methods that i have developed over the years. It has various useful utilities such as object comparison methods, file manipulation classes for files, jsons, excel files and file zipping, has its custom basic logger, has utilities for list, string and numeric manipulation, a built in text parser, command execution capabilities & more.
+
+Check out the latest version
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/Utilities?color=brightgreen&label=Utilities)](https://mvnrepository.com/artifact/io.github.umutayb/Utilities/latest)
+
+***GPT Utilities***
+
+A library provides seamless integration with ChatGPT API in Java. It provdies capabilities such as chat with chatGPT directly from your CLI, generate relevant test data, have your javadocs generated automatically.
+
+Check out the latest version
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/gpt-utilities?color=brightgreen&label=gpt-utilities)](https://mvnrepository.com/artifact/io.github.umutayb/gpt-utilities/latest)
