@@ -77,11 +77,11 @@ Justsnap is providing campaign solutions utilizing its in house receipt scanning
 
 Pickleib is a utility library for software automation projects. It helps design and run tests with Selenium WebDriver in a simple and efficient way. It provides a set of utilities and ready to go driver setup that provide great convenience for designing test automations, such as clean API capabilities, POM support, email test capability, database connection, data layer and event tests. 
 
-Check out the latest version
+Check out the latest version ***[here](https://github.com/Umutayb/Pickleib)***.
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/Pickleib?color=brightgreen&label=Pickleib)](https://mvnrepository.com/artifact/io.github.umutayb/Pickleib/latest)
 
-And for mobile (Appium)  
+And for mobile (Appium), ***[here](https://github.com/Umutayb/Mobileib)***.  
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/Mobileib?color=brightgreen&label=Mobileib)](https://mvnrepository.com/artifact/io.github.umutayb/Mobileib/latest)
 
@@ -89,7 +89,7 @@ And for mobile (Appium)
 
 Utilities library is a collection of utility methods that i have developed over the years. It has various useful utilities such as object comparison methods, file manipulation classes for files, jsons, excel files and file zipping, has its custom basic logger, has utilities for list, string and numeric manipulation, a built in text parser, command execution capabilities & more.
 
-Check out the latest version
+Check out the latest version ***[here](https://github.com/Umutayb/Java-Utilities)***.
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/Utilities?color=brightgreen&label=Utilities)](https://mvnrepository.com/artifact/io.github.umutayb/Utilities/latest)
 
@@ -97,6 +97,6 @@ Check out the latest version
 
 A library provides seamless integration with ChatGPT API in Java. It provdies capabilities such as chat with chatGPT directly from your CLI, generate relevant test data, have your javadocs generated automatically.
 
-Check out the latest version
+Check out the latest version ***[here](https://github.com/Umutayb/GPT-Utilities)***.
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/gpt-utilities?color=brightgreen&label=gpt-utilities)](https://mvnrepository.com/artifact/io.github.umutayb/gpt-utilities/latest)
