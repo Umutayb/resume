@@ -10,14 +10,32 @@ I excel at transforming quality assurance within organisations and establishing 
 **Technical Test Lead** ***@[citizenM hotels](https://www.citizenm.com/how-to-citizenm)*** _(01.03.2022 - Present)_ <br>
 citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - I was contracted to inspect the entirety of citizenM's quality assurance activities in order to develop a ***TMM*** (Test Maturity Model)
-- Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimizations to be made
-- Helped various teams improve their testing activities
+- Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimisations to be made
 - Took the initiative to develop a centralised QA approach & managed the QA transition within citizenM
-- Helped citizenM increase the quality of their products by establishing quality standards while detecting points of improvements & vulnerabilities
+- Helped citizenM increase the quality of CitizenM's products by establishing quality standards while detecting points of improvements & vulnerabilities
+- ***Founded a QA team*** to increase quality standards across CitizenM's product lineup
+  - Managed the team to provide QA to several product teams
+  - Conducted numerous hiring interviews & assessments to find the right talent for the team
+  - Continuously tracked performance of team members
+  - Did resource reallocation to compensate for shifting test workload across different product teams
+  - Created an agile work environment & a continuous performance feedback cycle to ensure career development of team members
+  - Trained team members on the topic of test automation
+- ***Redesigned the software development lifecycle*** to enable a solid test strategy & ***guided suppliers*** to migrate to the proposed ***SDLC Model***
+  - Took the initiative to create a functionality analysis on the existing SDLC Model
+  - Designed a brand new SDLC Model to compensate for shortcomings of the existing model
+  - Guided CitizenM & its suppliers through the SDLC migration
+  - Organised the QA team to work in the newly designed model
+  - Enabled a test architecture that separated development, test and acceptance environments while integrating test automation in deployment pipelines.
+- ***Lead Quality Assurance*** through the backend migration CitizenM is going through
+  - Handled strategy & budget planning for the migration
+  - Hired necessary resources
+  - Strategised a ***performance test*** (JMeter, Octaperf)
+  - Designed a ***data migration audit***
+  - Defined a ***UAT*** strategy between CitizenM & its suppliers
 - Created ***clean, efficient, scalable & unified*** test automation solutions for various teams
   - Created an api test automation solution for the entirety of citizenM's backend services
   - Created a web ui test automation solution for citizenM's Website
-  - The test automarion solution enabled cross tests between fromtends, backends, databases, customer emails and even the analytics layer.
+  - The test automation solution enabled cross tests between frontends, backends, databases, customer emails and even the analytics layer.
   - Established continuous integration for the test automation projects by using ***Azure DevOps*** 
   - Created the following ***Slack integrations:***
     - ***Integrated Azure pipelines with slack***, enabling live monitoring of the test runs
@@ -28,13 +46,13 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 SpriteCloud is a consultancy providing software testing services & test results dashboards. 
 - I have focused on expanding my knowledge on additional CI tools and automation frameworks such as:
   - ***Gitlab CI***
-  - Parallelization with ***Knapsack*** (for Cypress, Jest, RSpec etc.)
+  - Parallelisation with ***Knapsack*** (for Cypress, Jest, RSpec etc.)
   - Automated vulnerability and security testing with a ***Zaproxy*** & ***Burp Suite***
   - Web UI Automation with **Cypress**
   - Test Automation with **Jest**
   - Automated bug reporting with ***Jira*** & ***Trello*** integration
-- Published a ***[Mobile UI Test Automation Template](https://github.com/Umutayb/Mobile-Automation-Sample)*** which is utilizing my own mobile automation library ***[Mobileib](https://github.com/Umutayb/Mobileib)***, built on **Java & Appium** which is capable of ***parallel test execution*** (with multithreading and/or by browserstack).
-- Published an ***[Api Automation Template](https://github.com/Umutayb/Api-Automation-Sample)*** which is utilizing my own api automation library ***[Api Assured](https://github.com/Umutayb/Api-Assured)***, built on ***Java***, ***Retrofit2*** & ***OkHttp3*** which is capable of ***parallel test execution***, ***request interception*** & ***advanced header management***.
+- Published a ***[Mobile UI Test Automation Template](https://github.com/Umutayb/Mobile-Automation-Sample)*** which is utilising my own mobile automation library ***[Mobileib](https://github.com/Umutayb/Mobileib)***, built on **Java & Appium** which is capable of ***parallel test execution*** (with multithreading and/or by browserstack).
+- Published an ***[Api Automation Template](https://github.com/Umutayb/Api-Automation-Sample)*** which is utilising my own api automation library ***[Api Assured](https://github.com/Umutayb/Api-Assured)***, built on ***Java***, ***Retrofit2*** & ***OkHttp3*** which is capable of ***parallel test execution***, ***request interception*** & ***advanced header management***.
 - Improved upon the ***[Web UI Automation Template](https://github.com/Umutayb/Web-Automation-Sample-Cucumber)*** & the web ui automation library ***[Pickleib](https://github.com/Umutayb/Pickleib)*** I had previously published.
 - Improved test result monitoring for all automated tests by using Calliope.pro & Allure in order to provide more insightful test results.
 <br><br>
@@ -58,13 +76,13 @@ Pixery is developing next generation mobile applications for content creators.
 Worked on both [**Funimate**](https://www.pixerylabs.com) (a social media platform & an advanced video editing tool used by millions of active users every day) & [**Impresso**](https://www.pixerylabs.com) (an all-in-one video editing tool for influencers and businesses).
 - With Pixery, we have worked on bleeding edge technologies, developing applications that are being used by millions of people worldwide. 
 - My duty was to ensure end-product quality of the applications by performing comprehensive tests with creative test cases for each functional task, as well ass applying integration tests before each release, ensuring release with minimum number of bugs and crashes.
-- On the automation side of our work, I have provided a flexible automation framework which can be simultaneously used for several mobile & web projects as well as API tests, with support for test scenarios that can be written by anyone including the non-technical team members by utilizing **BDD**.
+- On the automation side of our work, I have provided a flexible automation framework which can be simultaneously used for several mobile & web projects as well as API tests, with support for test scenarios that can be written by anyone including the non-technical team members by utilising **BDD**.
 - I supported the test automation process by developing mobile test tools written in swift. The test application we have developed was used to measure the accuracy of the video editing engines.
 - Having worked on countless agile projects in the past, I have comprehensive knowledge of testing tools such as; ***Automation Tests written in Java***, built using ***Maven, TestNG, Cucumber, Selenium & Appium***. I have also utilized ***Jenkins CI (/w Groovy)*** for scheduled & triggered automation execution.
 <br><br>
 
 **Software QA Engineer** ***@[JustSnap](https://justsnap.co)*** _(04.10.2018 – 01.07.2020)_ <br>
-Justsnap is providing campaign solutions utilizing its in house receipt scanning technology based on machine learning.
+Justsnap is providing campaign solutions utilising its in house receipt scanning technology based on machine learning.
   - Participated in development, QA and BA processes of campaign projects for companies such as P&G, Phillips and Pepsi.
   - I was responsible from quality assurance activities for over **17 campaign projects** we have delivered.
   - Worked on cross-platform mobile applications, explored mobile automation with **Selenium** & **Katalon Studio**
