@@ -39,7 +39,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
   - Established continuous integration for the test automation projects by using ***Azure DevOps***
   - Created the following ***Slack integrations:***
     - ***Integrated Azure pipelines with slack***, enabling live monitoring of the test runs
-    - ***Written a slack bot*** for posting test results on a dedicated slack channel while enabling remote activation of tests with slash commands
+    - ***Created a slack bot*** for posting test results on a dedicated slack channel while enabling remote activation of tests with slash commands
     - Integrated a test report dashboard (Calliope.pro) with Slack, enabling the test results to be automatically posted on a dedicated Slack channel
   - ***Finally established a single test automation framework that simultaneously tested frontends, middleware, emails, analytics layer & the database against each other, enabling true E2E test automation.***
     - Collaborated with the QA team that was founded, the test automation scaled up to cover over **2000 test steps**
