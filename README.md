@@ -13,7 +13,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimisations to be made
 - Took the initiative to develop a centralised QA approach & managed the QA transition within citizenM
 - Helped citizenM increase the quality of CitizenM's products by establishing quality standards while detecting points of improvements & vulnerabilities
-- ***Founded a QA team*** to increase quality standards across CitizenM's product lineup
+- ***Founded the QA team*** to increase quality standards across CitizenM's product lineup
   - Managed the team to provide QA to several product teams
   - Conducted numerous hiring interviews & assessments to find the right talent for the team
   - Continuously tracked performance of team members
@@ -25,7 +25,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
   - Designed a brand new SDLC Model to compensate for shortcomings of the existing model
   - Guided CitizenM & its suppliers through the SDLC migration
   - Organised the QA team to work in the newly designed model
-  - Enabled a test architecture that separated development, test and acceptance environments while integrating test automation in deployment pipelines.
+  - Enabled a test architecture that separated development, test and acceptance environments while integrating test automation in deployment pipelines
 - ***Lead Quality Assurance*** through the backend migration CitizenM is going through
   - Handled strategy & budget planning for the migration
   - Hired necessary resources
@@ -41,7 +41,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
     - ***Integrated Azure pipelines with slack***, enabling live monitoring of the test runs
     - ***Created a slack bot*** for posting test results on a dedicated slack channel while enabling remote activation of tests with slash commands
     - Integrated a test report dashboard (Calliope.pro) with Slack, enabling the test results to be automatically posted on a dedicated Slack channel
-  - ***Finally established a single test automation framework that simultaneously tested frontends, middleware, emails, analytics layer & the database against each other, enabling true E2E test automation.***
+  - ***Finally established a single test automation framework that simultaneously tested frontends, middleware, emails, analytics layer & the database against each other, enabling true E2E test automation***
     - Collaborated with the QA team that was founded, the test automation scaled up to cover over **2000 test steps**
 
 **Senior Test Automation Engineer** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - Present)_ <br>
