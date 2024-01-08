@@ -1,4 +1,4 @@
-# Technical Test Lead
+# Quality Assurance Architect
 
 _Senior Software Automation Engineer_ <br>
 
@@ -6,6 +6,14 @@ I excel at transforming quality assurance within organisations and establishing 
 
 
 ## WORK EXPERIENCE
+
+**Quality Assurance Architect** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - 01.01.2024)_ <br>
+SpriteCloud is a consultancy providing software testing services & test results dashboards. 
+- Assessed clients quality assurance procedures to develop Test Maturity Models (TMM). 
+- Designed new Software Development Lifecycle (SDLC) models that enabled an effective quality assurance discipline. 
+- Determined the necessary amount of QA resource per work stream and managing the QA team within organisations to maximise the effectiveness and efficiency of QA practices.
+- Developed performance measurement strategies to ensure continuity of performance and carreer growth of QA Engineers
+<br><br>
 
 **Technical Test Lead** ***@[citizenM hotels](https://www.citizenm.com/company/overview)*** _(01.03.2022 - Present)_ <br>
 citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
@@ -44,7 +52,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
   - ***Finally established a single test automation framework that simultaneously tested frontends, middleware, emails, analytics layer & the database against each other, enabling true E2E test automation***
     - Collaborated with the QA team that was founded, the test automation scaled up to cover over **2000 test steps**
 
-**Senior Test Automation Engineer** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - Present)_ <br>
+**Senior Test Automation Engineer** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - 01.01.2024)_ <br>
 SpriteCloud is a consultancy providing software testing services & test results dashboards. 
 - I have focused on expanding my knowledge on additional CI tools and automation frameworks such as:
   - ***Gitlab CI***
