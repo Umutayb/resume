@@ -7,7 +7,7 @@ I excel at transforming quality assurance within organisations and establishing 
 
 ## WORK EXPERIENCE
 
-**Quality Assurance Architect** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - 01.01.2024)_ <br>
+**Quality Assurance Architect** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.01.2024 - present)_ <br>
 SpriteCloud is a consultancy providing software testing services & test results dashboards. 
 - Assessed clients quality assurance procedures to develop Test Maturity Models (TMM). 
 - Designed new Software Development Lifecycle (SDLC) models that enabled an effective quality assurance discipline. 
