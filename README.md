@@ -11,7 +11,7 @@ I excel at transforming quality assurance within organisations and establishing 
 SpriteCloud is a consultancy providing software testing services & test results dashboards. 
 - Assessed clients quality assurance procedures to develop Test Maturity Models (TMM). 
 - Designed new Software Development Lifecycle (SDLC) models that enabled an effective quality assurance discipline. 
-- Determined the necessary amount of QA resource per work stream and managing the QA team within organisations to maximise the effectiveness and efficiency of QA practices.
+- Determined the necessary amount of QA resource per work stream while managing the QA team within organisations to maximise the effectiveness and efficiency of QA practices.
 - Developed performance measurement strategies to ensure continuity of performance and carreer growth of QA Engineers
 <br><br>
 
