@@ -17,7 +17,6 @@ SpriteCloud is a consultancy providing software testing services & test results 
 - Lead innovation as the **Guild Lead of Innovation**.
   - Developed a multi model AI QA agent design to automate test scenario generation & test maintenance.
   - Designed & developed an easy to deploy CV solution to modernise consultancy CV practices.
-
 <br><br>
 
 **Quality Assurance Solution Owner** ***@[citizenM hotels](https://www.citizenm.com/company/overview)*** _(01.03.2022 - Present)_ <br>
@@ -57,6 +56,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
     - Integrated a test report dashboard (Calliope.pro) with Slack, enabling the test results to be automatically posted on a dedicated Slack channel
   - ***Finally established a single test automation framework that simultaneously tested frontends, middleware, emails, analytics layer & the database against each other, enabling true E2E test automation***
     - Collaborated with the QA team that was founded, the test automation scaled up to cover over **2000 test steps**
+<br><br>
 
 **Senior Test Automation Engineer** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - 01.01.2024)_ <br>
 SpriteCloud is a consultancy providing software testing services & test results dashboards. 
