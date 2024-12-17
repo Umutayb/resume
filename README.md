@@ -2,7 +2,7 @@
 
 _Architect (Quality Assurance & Test Automation Software)_ <br>
 
-I excel at transforming quality assurance within organisations and establishing software automations(for test & business) that are continuously integrated, easy to maintain, highly sustainable & efficient in execution. My main objective is to optimise quality assurance within organisations while reducing costs of certain tasks by automating them as efficiently as possible. I believe automation is necessary not just for testing but for any task that can benefit from it, and I am up to the task. <br>
+I excel at transforming the software development lifecycle within organisations and establishing a solid quality assurance strategy. My main objective is to optimise quality assurance within the organisation while reducing costs of certain tasks by automating them as efficiently as possible. Quality assurance is one of the most critical components of IT businesses while automation is necessary not just for testing but for any task that can benefit from it. I am here to deliver both. <br>
 
 
 ## WORK EXPERIENCE
@@ -12,28 +12,33 @@ SpriteCloud is a consultancy providing software testing services & test results 
 - Assessed clients quality assurance procedures to develop Test Maturity Models (TMM). 
 - Designed new Software Development Lifecycle (SDLC) models that enabled an effective quality assurance discipline. 
 - Determined the necessary amount of QA resource per work stream while managing the QA team within organisations to maximise the effectiveness and efficiency of QA practices.
-- Developed performance measurement strategies to ensure continuity of performance and carreer growth of QA Engineers
+- Developed performance measurement strategies to ensure continuity of performance and carreer growth of QA Engineers.
+- Trained QA Engineers to excel at software development & test automation.
+- Lead innovation as the **Guild Lead of Innovation**.
+  - Developed a multi model AI QA agent design to automate test scenario generation & test maintenance.
+  - Designed & developed an easy to deploy CV solution to modernise consultancy CV practices.
+
 <br><br>
 
-**Technical Test Lead** ***@[citizenM hotels](https://www.citizenm.com/company/overview)*** _(01.03.2022 - Present)_ <br>
+**Quality Assurance Solution Owner** ***@[citizenM hotels](https://www.citizenm.com/company/overview)*** _(01.03.2022 - Present)_ <br>
 citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
-- I was contracted to inspect the entirety of citizenM's quality assurance activities in order to develop a ***TMM*** (Test Maturity Model)
-- Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimisations to be made
-- Took the initiative to develop a centralised QA approach & managed the QA transition within citizenM
-- Helped citizenM increase the quality of CitizenM's products by establishing quality standards while detecting points of improvements & vulnerabilities
-- ***Founded the QA team*** to increase quality standards across CitizenM's product lineup
-  - Managed the team to provide QA to several product teams
-  - Conducted numerous hiring interviews & assessments to find the right talent for the team
-  - Continuously tracked performance of team members
-  - Did resource reallocation to compensate for shifting test workload across different product teams
-  - Created an agile work environment & a continuous performance feedback cycle to ensure career development of team members
-  - Trained team members on the topic of test automation
+- I was contracted to inspect the entirety of citizenM's quality assurance activities in order to develop a ***TMM*** (Test Maturity Model).
+- Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimisations to be made.
+- Took the initiative to develop a centralised QA approach & managed the QA transition within citizenM.
+- Helped citizenM increase the quality of CitizenM's products by establishing quality standards while detecting points of improvements & vulnerabilities.
+- ***Founded the QA team*** to increase quality standards across CitizenM's product lineup:
+  - Managed the team to provide QA to several product teams.
+  - Conducted numerous hiring interviews & assessments to find the right talent for the team.
+  - Continuously tracked performance of team members.
+  - Did resource reallocation to compensate for shifting test workload across different product teams.
+  - Created an agile work environment & a continuous performance feedback cycle to ensure career development of team members.
+  - Trained team members on the topic of test automation.
 - ***Redesigned the software development lifecycle*** to enable a solid test strategy & ***guided suppliers*** to migrate to the proposed ***SDLC Model***
-  - Took the initiative to create a functionality analysis on the existing SDLC Model
-  - Designed a brand new SDLC Model to compensate for shortcomings of the existing model
-  - Guided CitizenM & its suppliers through the SDLC migration
-  - Organised the QA team to work in the newly designed model
-  - Enabled a test architecture that separated development, test and acceptance environments while integrating test automation in deployment pipelines
+  - Took the initiative to create a functionality analysis on the existing SDLC Model.
+  - Designed a brand new SDLC Model to compensate for shortcomings of the existing model.
+  - Guided CitizenM & its suppliers through the SDLC migration.
+  - Organised the QA team to work in the newly designed model.
+  - Enabled a test architecture that separated development, test and acceptance environments while integrating test automation in deployment pipelines.
 - ***Lead Quality Assurance*** through the backend migration CitizenM is going through
   - Handled strategy & budget planning for the migration
   - Hired necessary resources
@@ -45,6 +50,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
   - Created a web ui test automation solution for citizenM's Website
   - The test automation solution enabled cross tests between frontends, backends, databases, customer emails and even the analytics layer.
   - Established continuous integration for the test automation projects by using ***Azure DevOps***
+  - Developed a custom parallelisation script to enable **test parallelisation** at the **devops** level
   - Created the following ***Slack integrations:***
     - ***Integrated Azure pipelines with slack***, enabling live monitoring of the test runs
     - ***Created a slack bot*** for posting test results on a dedicated slack channel while enabling remote activation of tests with slash commands
@@ -109,17 +115,21 @@ Check out the latest version ***[here](https://github.com/Umutayb/Pickleib)***.
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/Pickleib?color=brightgreen&label=Pickleib)](https://mvnrepository.com/artifact/io.github.umutayb/Pickleib/latest)
 
-And for mobile (Appium), ***[here](https://github.com/Umutayb/Mobileib)***.  
-
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/Mobileib?color=brightgreen&label=Mobileib)](https://mvnrepository.com/artifact/io.github.umutayb/Mobileib/latest)
-
 **Java Utilities**
 
-Utilities library is a collection of utility methods that i have developed over the years. It has various useful utilities such as object comparison methods, file manipulation classes for files, jsons, excel files and file zipping, has its custom basic logger, has utilities for list, string and numeric manipulation, a built in text parser, command execution capabilities & more.
+Utilities library is a collection of utility methods that i have developed over the years. It has various useful utilities such as object comparison methods, file manipulation classes for files, jsons, excel files and file zipping, has its custom basic logger, has utilities for list, string and numeric manipulation, a built in text parser, localisation, command execution capabilities & more.
 
 Check out the latest version ***[here](https://github.com/Umutayb/Java-Utilities)***.
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/Utilities?color=brightgreen&label=Utilities)](https://mvnrepository.com/artifact/io.github.umutayb/Utilities/latest)
+
+**Context Store**
+
+ContextStore provides utility classes for managing thread-safe context storage and secret property handling.
+
+Check out the latest version ***[here](https://github.com/Umutayb/context-store)***.
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/context-store?color=brightgreen&label=context-store)](https://mvnrepository.com/artifact/io.github.umutayb/context-store/latest)
 
 ***GPT Utilities***
 
@@ -128,3 +138,10 @@ A library provides seamless integration with ChatGPT API in Java. It provdies ca
 Check out the latest version ***[here](https://github.com/Umutayb/GPT-Utilities)***.
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/gpt-utilities?color=brightgreen&label=gpt-utilities)](https://mvnrepository.com/artifact/io.github.umutayb/gpt-utilities/latest)
+
+
+***Easy Secret Santa 🎅🎁***
+
+My team wanted to organise an anonimised secret santa even before christmas, i quickly developed an application template that made it super easy. Since then multiple teams have successfully used it to have fun & gift each other! I present you with: **Secret Santa**! It's a Java application designed to simplify and automate the process of organizing a Secret Santa gift exchange. It pairs participants, generates personalized emails with recipient details, and sends the emails via SMTP, ensuring a smooth and festive experience for all involved.
+
+Check out the latest version ***[here](https://github.com/Umutayb/secret-santa)***.
