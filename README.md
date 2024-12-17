@@ -127,7 +127,7 @@ Check out the latest version ***[here](https://github.com/Umutayb/Java-Utilities
 
 ContextStore provides utility classes for managing thread-safe context storage and secret property handling.
 
-Check out the latest version ***[here](https://github.com/Umutayb/context-store)***.
+Check it out ***[here](https://github.com/Umutayb/context-store)***!
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/context-store?color=brightgreen&label=context-store)](https://mvnrepository.com/artifact/io.github.umutayb/context-store/latest)
 
@@ -135,7 +135,7 @@ Check out the latest version ***[here](https://github.com/Umutayb/context-store)
 
 A library provides seamless integration with ChatGPT API in Java. It provdies capabilities such as chat with chatGPT directly from your CLI, generate relevant test data, have your javadocs generated automatically.
 
-Check out the latest version ***[here](https://github.com/Umutayb/GPT-Utilities)***.
+Check it out ***[here](https://github.com/Umutayb/GPT-Utilities)***!
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/gpt-utilities?color=brightgreen&label=gpt-utilities)](https://mvnrepository.com/artifact/io.github.umutayb/gpt-utilities/latest)
 
@@ -144,4 +144,4 @@ Check out the latest version ***[here](https://github.com/Umutayb/GPT-Utilities)
 
 My team wanted to organise an anonimised secret santa even before christmas, i quickly developed an application template that made it super easy. Since then multiple teams have successfully used it to have fun & gift each other! I present you with: **Secret Santa**! It's a Java application designed to simplify and automate the process of organizing a Secret Santa gift exchange. It pairs participants, generates personalized emails with recipient details, and sends the emails via SMTP, ensuring a smooth and festive experience for all involved.
 
-Check out the latest version ***[here](https://github.com/Umutayb/secret-santa)***.
+Check it out ***[here](https://github.com/Umutayb/secret-santa)***!
