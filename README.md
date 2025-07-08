@@ -7,16 +7,18 @@ I excel at transforming the software development lifecycle within organisations 
 
 ## WORK EXPERIENCE
 
-**Quality Assurance Architect** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.01.2024 - present)_ <br>
+**Quality Assurance Architect & Managing Consultant** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.01.2024 - present)_ <br>
 SpriteCloud is a consultancy providing software testing services & test results dashboards. 
 - Assessed clients quality assurance procedures to develop Test Maturity Models (TMM). 
 - Designed new Software Development Lifecycle (SDLC) models that enabled an effective quality assurance discipline. 
 - Determined the necessary amount of QA resource per work stream while managing the QA team within organisations to maximise the effectiveness and efficiency of QA practices.
-- Developed performance measurement strategies to ensure continuity of performance and carreer growth of QA Engineers.
-- Trained QA Engineers to excel at software development & test automation.
+- Developed performance measurement strategies to ensure continuity of performance and career growth of QA Engineers.
+  - Helped the group of consultants in my team establish KPI's.
+- Trained & supported QA Engineers to excel at software development & test automation.
 - Lead innovation as the **Guild Lead of Innovation**.
   - Developed a multi model AI QA agent design to automate test scenario generation & test maintenance.
   - Designed & developed an easy to deploy CV solution to modernise consultancy CV practices.
+  - Delivered desktop to database test automation solutions to secure a major client (Ahold)
 <br><br>
 
 **Quality Assurance Solution Owner** ***@[citizenM hotels](https://www.citizenm.com/company/overview)*** _(01.03.2022 - Present)_ <br>
@@ -41,7 +43,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - ***Lead Quality Assurance*** through the backend migration CitizenM is going through
   - Handled strategy & budget planning for the migration
   - Hired necessary resources
-  - Strategised a ***performance test*** (JMeter, Octaperf)
+  - Designed & implemented a ***performance test*** (JMeter, Octaperf)
   - Designed a ***data migration audit***
   - Defined a ***UAT*** strategy between CitizenM & its suppliers
 - Created ***clean, efficient, scalable & unified*** test automation solutions for various teams
@@ -55,7 +57,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
     - ***Created a slack bot*** for posting test results on a dedicated slack channel while enabling remote activation of tests with slash commands
     - Integrated a test report dashboard (Calliope.pro) with Slack, enabling the test results to be automatically posted on a dedicated Slack channel
   - ***Finally established a single test automation framework that simultaneously tested frontends, middleware, emails, analytics layer & the database against each other, enabling true E2E test automation***
-    - Collaborated with the QA team that was founded, the test automation scaled up to cover over **2000 test steps**
+    - Collaborated with the QA team that was founded, the test automation scaled up to cover over **5000 test steps**
 <br><br>
 
 **Senior Test Automation Engineer** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - 01.01.2024)_ <br>
@@ -107,13 +109,39 @@ Justsnap is providing campaign solutions utilising its in house receipt scanning
     <br><br>
    
 ## PERSONAL PROJECTS
+Programming is my passion. I like to develop reusable modules of software which i then publish as open source code for 
+others to benefit from. Here are some of my open source libraries.
+
 **Pickleib**
 
-Pickleib is a utility library for software automation projects. It helps design and run tests with Selenium WebDriver in a simple and efficient way. It provides a set of utilities and ready to go driver setup that provide great convenience for designing test automations, such as clean API capabilities, POM support, email test capability, database connection, data layer and event tests. 
+Pickleib is a utility library for software automation projects. It helps design and run tests with Selenium WebDriver 
+in a simple and efficient way. It provides a set of utilities and ready to go driver setup that provide great 
+convenience for designing test automations, such as clean API capabilities, POM support, email test capability, 
+database connection, data layer and event tests. 
 
-Check out the latest version ***[here](https://github.com/Umutayb/Pickleib)***.
+Check out the latest version ***[here](https://github.com/Umutayb/pickleib)***.
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/Pickleib?color=brightgreen&label=Pickleib)](https://mvnrepository.com/artifact/io.github.umutayb/Pickleib/latest)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/Pickleib?color=brightgreen&label=pickleib)](https://mvnrepository.com/artifact/io.github.umutayb/pickleib/latest)
+
+**Wasapi**
+
+Wasapi is a lightweight, Java-based API utility library that simplifies HTTP service generation and API calls using
+Retrofit. It abstracts the boilerplate needed to set up and use APIs, making it easier to integrate network calls in 
+your Java applications.
+
+*Features*
+
+Simplified API service generation
+
+Centralized HTTP configuration
+
+Easy-to-use wasapi.Caller utility for handling requests
+
+Designed with modularity and readability in mind
+
+Check out the latest version ***[here](https://github.com/Umutayb/wasapi)***.
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/wasapi?color=brightgreen&label=wasapi)](https://mvnrepository.com/artifact/io.github.umutayb/wasapi/latest)
 
 **Java Utilities**
 
@@ -131,17 +159,29 @@ Check it out ***[here](https://github.com/Umutayb/context-store)***!
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/context-store?color=brightgreen&label=context-store)](https://mvnrepository.com/artifact/io.github.umutayb/context-store/latest)
 
-***GPT Utilities***
+***Ollama API***
 
-A library provides seamless integration with ChatGPT API in Java. It provdies capabilities such as chat with chatGPT directly from your CLI, generate relevant test data, have your javadocs generated automatically.
+Integrate LLMs into your Java projects in seconds! I have built Ollama API to streamline LLM integration in Java. No more manual JSON parsing or brittle API calls. Just give your prompt and target class, and the library does the rest.
 
-Check it out ***[here](https://github.com/Umutayb/GPT-Utilities)***!
+Perfect for:
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/gpt-utilities?color=brightgreen&label=gpt-utilities)](https://mvnrepository.com/artifact/io.github.umutayb/gpt-utilities/latest)
+🤖 Chatbots,
+
+🛠 AI tools,
+
+🧠 Agents,
+
+🔐 Internal LLM utilities,
+
+🔍 Available on Maven Central!
+
+Check it out ***[here](https://github.com/umutayb/ollama-api)***!
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.umutayb/ollama-api?color=brightgreen&label=ollama-api)](https://mvnrepository.com/artifact/io.github.umutayb/ollama-api/latest)
 
 
 ***Easy Secret Santa 🎅🎁***
 
-My team wanted to organise an anonimised secret santa even before christmas, i quickly developed an application template that made it super easy. Since then multiple teams have successfully used it to have fun & gift each other! I present you with: **Secret Santa**! It's a Java application designed to simplify and automate the process of organizing a Secret Santa gift exchange. It pairs participants, generates personalized emails with recipient details, and sends the emails via SMTP, ensuring a smooth and festive experience for all involved.
+My team wanted to organise an anonimised secret santa even before Christmas, i quickly developed an application template that made it super easy. Since then multiple teams have successfully used it to have fun & gift each other! I present you with: **Secret Santa**! It's a Java application designed to simplify and automate the process of organizing a Secret Santa gift exchange. It pairs participants, generates personalized emails with recipient details, and sends the emails via SMTP, ensuring a smooth and festive experience for all involved.
 
 Check it out ***[here](https://github.com/Umutayb/secret-santa)***!
