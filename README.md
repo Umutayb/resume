@@ -2,7 +2,7 @@
 
 _Architect (Quality Assurance & Test Automation Software)_ <br>
 
-I excel at transforming the software development lifecycle within organisations and establishing a solid quality assurance strategy. My main objective is to optimise quality assurance within the organisation while reducing costs of certain tasks by automating them as efficiently as possible. Quality assurance is one of the most critical components of IT businesses while automation is necessary not just for testing but for any task that can benefit from it. I am here to deliver both. <br>
+I excel at transforming the software development lifecycle within organisations and establishing a solid quality assurance strategy. My main objective is to optimise quality assurance within the organisation while reducing costs of certain tasks by automating them as efficiently as possible. Quality Assurance is one of the most critical components of IT businesses while automation is necessary not just for testing but for any task that can benefit from it. I am here to deliver both. <br>
 
 
 ## WORK EXPERIENCE
