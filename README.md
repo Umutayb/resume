@@ -9,7 +9,7 @@ I excel at transforming the software development lifecycle within organisations 
 
 **Quality Assurance Architect & Managing Consultant** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.01.2024 - present)_ <br>
 SpriteCloud is a consultancy providing software testing services & test results dashboards. 
-- Assessed clients quality assurance procedures to develop Test Maturity Models (TMM). 
+- Assessed clients quality assurance procedures to develop **Test Maturity Models** (TMM). 
 - Designed new Software Development Lifecycle (SDLC) models that enabled an effective quality assurance discipline. 
 - Determined the necessary amount of QA resource per work stream while managing the QA team within organisations to maximise the effectiveness and efficiency of QA practices.
 - Developed performance measurement strategies to ensure continuity of performance and career growth of QA Engineers.
@@ -23,10 +23,10 @@ SpriteCloud is a consultancy providing software testing services & test results 
 
 **Quality Assurance Solution Owner** ***@[citizenM hotels](https://www.citizenm.com/company/overview)*** _(01.03.2022 - Present)_ <br>
 citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
-- I was contracted to inspect the entirety of citizenM's quality assurance activities in order to develop a ***TMM*** (Test Maturity Model).
-- Created an extensive Test Maturity Model, covering five stages of quality assurance maturity levels & uncovering potential optimisations to be made.
+- I was tasked to inspect the entirety of citizenM's software development practices in order to develop a **Test Maturity Model**.
+- Created an extensive TMM, covering five stages of quality assurance maturity levels & uncovering potential optimisations to be made.
 - Took the initiative to develop a centralised QA approach & managed the QA transition within citizenM.
-- Helped citizenM increase the quality of CitizenM's products by establishing quality standards while detecting points of improvements & vulnerabilities.
+- Helped citizenM increase the quality of it's products by establishing quality standards while detecting points of improvements & vulnerabilities.
 - ***Founded the QA team*** to increase quality standards across CitizenM's product lineup:
   - Managed the team to provide QA to several product teams.
   - Conducted numerous hiring interviews & assessments to find the right talent for the team.
