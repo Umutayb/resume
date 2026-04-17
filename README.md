@@ -4,7 +4,7 @@ _Architect (Quality Assurance, Test Automation & AI-Assisted QA)_ <br>
 
 I transform the software development lifecycle within organisations and establish solid quality assurance strategies. My focus is optimising quality while reducing the cost of recurring engineering tasks through automation — from classical test automation to **AI-assisted test generation, self-maintaining suites and voice-driven QA tooling**. Quality Assurance is one of the most critical components of any IT business; automation is what makes it scalable. I build the frameworks, the agents, and the culture that deliver both.
 
-## ✦ CURRENT FOCUS ✦
+## ✦ BLEEDING EDGE ✦
 
 For the past year my primary focus has been designing and building a **fully autonomous, agentic Quality Assurance platform** — codename ***Magnum Opus***. An end-to-end lifecycle in which AI agents discover an application, author its test suite, expand coverage, hunt bugs, triage failures and report to stakeholders — all with human-grade discipline and auditable artefacts. Built on my **Civitas Cerebrum** framework and orchestrated by a single project-level configuration that turns any repository into an autonomous QA target. ***See Magnum Opus section below.*** *Internal mechanics intentionally kept under wraps.*
 
