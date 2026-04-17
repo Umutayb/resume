@@ -4,9 +4,9 @@ _Architect (Quality Assurance, Test Automation & AI-Assisted QA)_ <br>
 
 I transform the software development lifecycle within organisations and establish solid quality assurance strategies. My focus is optimising quality while reducing the cost of recurring engineering tasks through automation — from classical test automation to **AI-assisted test generation, self-maintaining suites and voice-driven QA tooling**. Quality Assurance is one of the most critical components of any IT business; automation is what makes it scalable. I build the frameworks, the agents, and the culture that deliver both.
 
-## ✦ FLAGSHIP ✦
+## ✦ CURRENT FOCUS ✦
 
-Over the past year my primary focus has been designing and building a **fully autonomous, agentic Quality Assurance platform** — codename ***Magnum Opus***. It is an end-to-end lifecycle in which AI agents discover an application, author its test suite, expand coverage, hunt bugs, triage failures and report to stakeholders, all with human-grade discipline and auditable artefacts. Built on top of my open-source **Civitas Cerebrum** framework; orchestrated by a single project-level configuration that turns any repository into an autonomous QA target. ***See [Magnum Opus section](#-magnum-opus--autonomous-agentic-qa-pipeline-) below.*** *Internal mechanics intentionally kept under wraps.*
+For the past year my primary focus has been designing and building a **fully autonomous, agentic Quality Assurance platform** — codename ***Magnum Opus***. An end-to-end lifecycle in which AI agents discover an application, author its test suite, expand coverage, hunt bugs, triage failures and report to stakeholders — all with human-grade discipline and auditable artefacts. Built on my **Civitas Cerebrum** framework and orchestrated by a single project-level configuration that turns any repository into an autonomous QA target. ***See Magnum Opus section below.*** *Internal mechanics intentionally kept under wraps.*
 
 ## CORE EXPERTISE
 
@@ -15,7 +15,7 @@ Over the past year my primary focus has been designing and building a **fully au
 - **AI-Assisted Quality Engineering** — Staged autonomous agentic QA pipeline (journey mapping → authoring → coverage expansion → bug discovery → failure diagnosis), adversarial / red-team AI testing, and model-agnostic LLM orchestration.
 - **Open-Source Library Design** — Published multiple Maven Central and npm libraries used in production testing ecosystems.
 - **CI/CD & DevOps for QA** — Azure DevOps, GitHub Actions, GitLab CI, Jenkins, custom parallelisation, Docker, Allure / Calliope / Slack reporting integrations.
-- **Languages & Stacks** — Java, TypeScript / Node, Python, C# (.NET / Azure Functions), Kotlin, Swift, VHDL. Spring Boot, Playwright, Selenium, Appium, Cucumber, Retrofit, React, Vue, Next.js.
+- **Languages & Stacks** — Java, TypeScript / Node, Python, Swift. Spring Boot, Playwright, Selenium, Appium, Cucumber, Retrofit, React, Vue, Next.js.
 
 ## WORK EXPERIENCE
 
@@ -27,6 +27,7 @@ SpriteCloud is a consultancy providing software testing services & test results 
 - Developed performance measurement strategies to ensure continuity of performance and career growth of QA Engineers.
   - Helped the group of consultants in my team establish KPIs.
 - Trained & supported QA Engineers to excel at software development & test automation.
+- Designed and rolled out a **new SDLC for [MR MARVIS](https://www.mrmarvis.com)**, aligning development, QA and release practices into a coherent delivery model.
 - Lead innovation as the **Guild Lead of Innovation**.
   - Designed and delivered a **multi-model AI QA agent** combining vision models, LLMs and structured prompting for autonomous test scenario generation and test maintenance.
   - Architected an easy-to-deploy **CV solution** modernising consultancy CV practices (the system rendering this document).
@@ -41,36 +42,32 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - Took the initiative to develop a centralised QA approach & managed the QA transition within citizenM.
 - Helped citizenM increase product quality by establishing quality standards while detecting points of improvement & vulnerabilities.
 - ***Founded the QA team*** to increase quality standards across citizenM's product lineup:
-  - Managed the team to provide QA to several product teams.
-  - Conducted numerous hiring interviews & assessments to find the right talent for the team.
+  - Managed the team providing QA to several product teams.
+  - Conducted numerous hiring interviews & assessments to find the right talent.
   - Continuously tracked performance of team members.
   - Did resource reallocation to compensate for shifting test workload across different product teams.
-  - Created an agile work environment & a continuous performance feedback cycle to ensure career development of team members.
+  - Created an agile work environment & a continuous performance feedback cycle to ensure career development.
   - Trained team members on test automation.
 - ***Redesigned the software development lifecycle*** to enable a solid test strategy & ***guided suppliers*** to migrate to the proposed ***SDLC model***.
-  - Took the initiative to create a functionality analysis on the existing SDLC model.
-  - Designed a brand-new SDLC model to compensate for shortcomings of the existing one.
+  - Created a functionality analysis on the existing SDLC model.
+  - Designed a brand-new SDLC model compensating for its shortcomings.
   - Guided citizenM & its suppliers through the SDLC migration.
-  - Organised the QA team to work in the newly designed model.
-  - Enabled a test architecture that separated development, test and acceptance environments while integrating test automation in deployment pipelines.
-- ***Lead Quality Assurance*** through citizenM's backend migration.
-  - Handled strategy & budget planning for the migration.
+  - Organised the QA team around the new model.
+  - Enabled a test architecture separating development, test and acceptance environments while integrating test automation in deployment pipelines.
+- ***Led Quality Assurance*** through citizenM's backend migration.
+  - Handled strategy & budget planning.
   - Hired necessary resources.
-  - Designed & implemented a ***performance test*** (JMeter, Octaperf).
+  - Designed & implemented a ***performance test suite*** (JMeter, Octaperf).
   - Designed a ***data migration audit***.
   - Defined a ***UAT strategy*** between citizenM & its suppliers.
 - Created ***clean, efficient, scalable & unified*** test automation solutions for various teams.
-  - Created an API test automation solution for the entirety of citizenM's backend services.
-  - Created a web UI test automation solution for citizenM's website.
-  - The solution enabled cross-layer verification between frontends, backends, databases, customer emails and the analytics layer.
-  - Established continuous integration for the test automation projects using ***Azure DevOps***.
-  - Developed a custom parallelisation script to enable **test parallelisation** at the **DevOps** level.
-  - Created the following ***Slack integrations:***
-    - ***Integrated Azure pipelines with Slack***, enabling live monitoring of test runs.
-    - ***Created a Slack bot*** for posting test results on a dedicated channel while enabling remote activation of tests with slash commands.
-    - Integrated a test report dashboard (Calliope.pro) with Slack, auto-posting results on a dedicated channel.
-  - ***Finally established a single test automation framework that simultaneously tested frontends, middleware, emails, analytics layer & the database against each other, enabling true E2E test automation***.
-    - In collaboration with the QA team I founded, the automation scaled to cover over **5000 test steps**.
+  - API test automation for the entirety of citizenM's backend services.
+  - Web UI test automation for citizenM's website.
+  - Enabled cross-layer verification between frontends, backends, databases, customer emails and the analytics layer.
+  - Established continuous integration using ***Azure DevOps***.
+  - Developed a custom parallelisation script enabling **test parallelisation** at the **DevOps** level.
+  - ***Slack integrations:*** live pipeline monitoring, a results-posting bot with slash-command remote triggers, and Calliope.pro → Slack reporting.
+  - ***Established a single test automation framework that simultaneously tested frontends, middleware, emails, analytics layer and the database against each other, enabling true E2E test automation*** — scaled with the QA team I founded to cover **5000+ test steps**.
 <br><br>
 
 **Senior Test Automation Engineer** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - 01.01.2024)_ <br>
@@ -89,49 +86,47 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 
 **Software QA Automation Engineer** ***@[Getir](https://www.linkedin.com/company/getir/)*** _(02.06.2021 - 01.12.2021)_ <br>
 Getir is a technology company that provides solutions for the delivery of goods in urban areas.
-- Work involved ***web automation***, ***BE automation*** & ***BE development*** with ***JPA*** and ***Spring Boot***. We provided testing infrastructures to developers and testers, created virtual courier services with Docker, prepared easily triggered regression suites and wrote BE services for other teams.
-- Single-handedly programmed the entire web UI regression suite for one of Getir's sub-brands, while providing scaling solutions by implementing an adaptation of the ***Abstract Factory*** design pattern enabling the project to support multiple domains of different sub-brands.
-- Set up CI jobs, and used Portainer slaves to pick up available jobs from Jenkins.
+- Work involved ***web automation***, ***BE automation*** & ***BE development*** with ***JPA*** and ***Spring Boot***. Provided testing infrastructures for developers and testers, created virtual courier services with Docker, prepared easily triggered regression suites and wrote BE services for other teams.
+- Single-handedly programmed the entire web UI regression suite for one of Getir's sub-brands, with a scaling adaptation of the ***Abstract Factory*** pattern enabling the project to support multiple sub-brand domains.
+- Set up CI jobs and used Portainer slaves to pick up available jobs from Jenkins.
 - Prepared Quickstart libraries combining BDD (**Cucumber & Gauge**) and **Page Object Model**, allowing entire automation frameworks to be bootstrapped within minutes.
 - Implemented parallel execution as standard on every project.
-- Authored an experimental automation framework that automatically acquires all elements & attributes along with auto-generated xPaths to a project JSON file — interpreted by the framework — allowing automation without any manual page inspection (the conceptual ancestor of my current JSON-repository-based frameworks).
-- Helped over **50 Quality Assurance engineers** at Getir **learn test automation** through a three-week bootcamp on automating web applications. Sessions were captured and are reused for further onboarding.
+- Authored an experimental automation framework that automatically acquires all elements & attributes with auto-generated xPaths into a project JSON file — interpreted by the framework — allowing automation without any manual page inspection (the conceptual ancestor of my current JSON-repository-based frameworks).
+- Helped over **50 QA engineers** at Getir **learn test automation** through a three-week bootcamp. Sessions were captured and are reused for ongoing onboarding.
 <br><br>
 
 **Software Test Automation Engineer** ***@[Pixery](https://www.pixerylabs.com)*** _(15.07.2020 - 02.06.2021)_ <br>
-Pixery develops next-generation mobile applications for content creators.
-Worked on both [**Funimate**](https://www.pixerylabs.com) (a social media platform & advanced video editing tool used by millions of active users daily) & [**Impresso**](https://www.pixerylabs.com) (an all-in-one video editing tool for influencers and businesses).
+Pixery develops next-generation mobile applications for content creators. Worked on both [**Funimate**](https://www.pixerylabs.com) (a social video editing platform used by millions of active users daily) & [**Impresso**](https://www.pixerylabs.com) (an all-in-one video editing tool for influencers and businesses).
 - Ensured end-product quality through comprehensive tests with creative test cases for each functional task, and integration tests before each release.
-- Provided a flexible automation framework simultaneously usable for several mobile & web projects as well as API tests, with support for BDD scenarios writable by non-technical team members.
+- Provided a flexible automation framework simultaneously usable across several mobile & web projects and API tests, with BDD scenarios writable by non-technical team members.
 - Developed Swift-based mobile test tools used to measure the accuracy of the video editing engines.
 - Deep experience with ***Java***, ***Maven, TestNG, Cucumber, Selenium & Appium***, and ***Jenkins CI (/w Groovy)***.
 <br><br>
 
 **Software QA Engineer** ***@[JustSnap](https://justsnap.co)*** _(04.10.2018 – 01.07.2020)_ <br>
-Justsnap provides campaign solutions utilising its in-house receipt scanning technology based on machine learning.
-- Participated in development, QA and BA processes of campaign projects for companies such as P&G, Phillips and Pepsi.
-- Responsible for quality assurance activities across over **17 campaign projects**.
-- Worked on cross-platform mobile applications, explored mobile automation with **Selenium** & **Katalon Studio**.
-- Created test scenarios, performed sanity tests & regression tests.
-- Implemented flexible web UI test automation solutions that were easy to set up to keep up with fast delivery schedules.
+Justsnap provides campaign solutions based on its in-house receipt-scanning ML technology.
+- Participated in development, QA and BA processes of campaign projects for P&G, Phillips and Pepsi.
+- Responsible for quality assurance activities across **17+ campaign projects**.
+- Worked on cross-platform mobile applications; explored mobile automation with **Selenium** & **Katalon Studio**.
+- Created test scenarios, performed sanity and regression tests.
+- Implemented flexible web UI test automation solutions that were easy to set up, keeping pace with fast delivery schedules.
 <br><br>
 
 ## ✦ MAGNUM OPUS — AUTONOMOUS AGENTIC QA PIPELINE ✦
 
-***The flagship of my current work.*** An **end-to-end agentic Quality Assurance lifecycle** in which AI agents discover an application, author its test suite, expand coverage, hunt bugs, triage failures and report to stakeholders — with human-grade discipline and auditable artefacts at every step.
+***The headline project of my current work.*** An **end-to-end agentic Quality Assurance lifecycle** in which AI agents discover an application, author its test suite, expand coverage, hunt bugs, triage failures and report to stakeholders — with human-grade discipline and auditable artefacts at every step.
 
-The pipeline is staged, opinionated and verification-driven: each stage has explicit prerequisites, success criteria and handoff artefacts (`page-repository.json`, `app-context.md`, coverage report, bug ledger). A single project-level orchestration layer — codename ***Magnum Opus*** — sits atop it all and activates the full lifecycle for any repository it is dropped into. *Internal mechanics intentionally kept under wraps.*
+The pipeline is staged, opinionated and verification-driven. A single project-level orchestration layer — codename ***Magnum Opus*** — sits atop it all and activates the full lifecycle for any repository it is dropped into. *Internal mechanics intentionally kept under wraps.*
 
-**Lifecycle stages**
-- ***Stage 0 — journey-mapping*** — Autonomous app discovery. The agent navigates the live application, identifies pages and user flows, builds an incremental `app-context.md` and prioritises journeys by business impact.
-- ***Stages 1–4 — authoring*** — Initial test authoring against the Singularity Steps API, with selector-free page objects sourced from `page-repository.json`.
-- ***Stage 5 — test-composer*** — Iterative coverage expansion. Cycles of scenario generation → implementation → stabilisation → review → gap analysis until the suite comprehensively covers the application.
-- ***Stage 6 — bug-discovery*** — Adversarial quality audit. The agent probes the live app with fresh eyes ("first-time effect"), cross-references findings against accumulated context and the green test baseline, and produces a prioritised bug report with reproduction tests.
-- ***failure-diagnosis*** — Evidence-based triage for failing tests: screenshot + DOM analysis, root-cause hypothesis, autonomous fix or app-bug report with evidence.
-- ***maintenance / onboarding / assistance*** — Keeping suites healthy, bringing new codebases into the pipeline, and everyday assistive tasks.
+**Lifecycle at a glance**
+- **Journey Mapping** — Autonomous app discovery. The agent navigates the live application, identifies pages and user flows, and prioritises journeys by business impact.
+- **Authoring** — Initial test authoring against the Singularity Steps API, with selector-free page objects sourced from a central JSON repository.
+- **Test Composer** — Iterative coverage expansion. Cycles of scenario generation → implementation → stabilisation → review → gap analysis until the suite comprehensively covers the application.
+- **Bug Discovery** — Adversarial quality audit. The agent probes the live app with fresh eyes ("first-time effect"), cross-references findings against accumulated context and the green test baseline, and produces a prioritised bug report with reproduction tests.
+- **Failure Diagnosis** — Evidence-based triage for failing tests: screenshot + DOM analysis, root-cause hypothesis, autonomous fix or app-bug report with evidence.
+- **Maintenance / Onboarding / Assistance** — Keeping suites healthy, bringing new codebases into the pipeline and everyday assistive tasks.
 
-**Specialist testing modules** the pipeline invokes per scenario:
-`functional-testing`, `negative-validation`, `security`, `permission-access`, `responsive`, `state-session`, `search-filtering`, `usability-ux`, `compliance-review`.
+**Specialist testing modules** invoked per scenario: `functional-testing`, `negative-validation`, `security`, `permission-access`, `responsive`, `state-session`, `search-filtering`, `usability-ux`, `compliance-review`.
 
 **Adversarial & governance**
 - ***agents-vs-agents*** — Red-team / blue-team AI testing: guardrail verification, prompt-injection, bias detection and compliance auditing for any LLM-integrated product.
@@ -145,15 +140,41 @@ Together these make autonomous QA **reproducible, auditable and model-agnostic**
 
 ## CIVITAS CEREBRUM — AI-NATIVE QA FRAMEWORK
 
-The engine beneath the Magnum Opus pipeline. An open-source ecosystem I build and maintain for **AI-native test automation**: the libraries separate selectors from test logic, unify execution across web / mobile / desktop platforms, enforce API test coverage, and give LLM coding assistants the structured primitives they need to author reliable tests.
+The engine beneath the Magnum Opus pipeline. A modern ecosystem for **AI-native test automation** — published on npm under `@civitas-cerebrum/*`. The libraries separate selectors from test logic, unify execution across web / mobile / desktop platforms, enforce API test coverage, and give LLM coding assistants the structured primitives they need to author reliable tests.
 
-- ***element-repository*** — Platform-agnostic element registry. A single JSON file is the source of truth for all locators across Playwright (web) and Appium / WebDriverIO (mobile).
-- ***element-interactions*** — High-level semantic interaction & verification layer on top of `element-repository`, with a built-in Claude Code skill that teaches AI assistants how to author tests in the framework.
-- ***singularity / singularity-engine*** — Cross-platform test execution engine applying an Abstract Factory pattern to expose a **single Steps API** that runs unchanged on web (Playwright), Android, iOS, Windows and macOS (Appium). Includes first-class **API** and **email** test primitives.
-- ***test-coverage*** — Static-analysis tool (TypeScript AST) that enforces **100% API coverage** in test suites, with CI-friendly reporters (GitHub table, HTML, JSON, badges).
-- ***email-client*** — Zero-dependency TypeScript SMTP/IMAP client purpose-built for E2E flows (signup → verification → click-through). Published to npm.
-- ***context-store*** — Thread-safe shared-state store available in both Java (Maven Central) and TypeScript (npm) editions.
-- ***jarvis / jarvis-plugin*** — Local, privacy-preserving **voice-driven QA copilot**. Audio pipeline: Silero VAD → GTCRN denoise → WeSpeaker speaker verification → Whisper STT → LLM → Kokoro TTS. Exposes an MCP server so Claude Code can be driven entirely by voice.
+**[element-repository](https://github.com/civitas-cerebrum/element-repository)**
+
+Platform-agnostic element registry. A single JSON file is the source of truth for all locators across Playwright (web) and Appium / WebDriverIO (mobile).
+
+[![npm](https://img.shields.io/npm/v/@civitas-cerebrum/element-repository?color=brightgreen&label=%40civitas-cerebrum%2Felement-repository)](https://www.npmjs.com/package/@civitas-cerebrum/element-repository)
+
+**[element-interactions](https://github.com/civitas-cerebrum/element-interactions)**
+
+High-level semantic interaction & verification layer on top of `element-repository`, with a built-in Claude Code skill that teaches AI assistants how to author tests in the framework.
+
+[![npm](https://img.shields.io/npm/v/@civitas-cerebrum/element-interactions?color=brightgreen&label=%40civitas-cerebrum%2Felement-interactions)](https://www.npmjs.com/package/@civitas-cerebrum/element-interactions)
+
+**[singularity-engine](https://www.npmjs.com/package/@civitas-cerebrum/singularity-engine)**
+
+Cross-platform test execution engine applying an Abstract Factory pattern to expose a **single Steps API** that runs unchanged on web (Playwright), Android, iOS, Windows and macOS (Appium). Includes first-class **API** and **email** test primitives. *Distributed as an obfuscated public npm package.*
+
+[![npm](https://img.shields.io/npm/v/@civitas-cerebrum/singularity-engine?color=brightgreen&label=%40civitas-cerebrum%2Fsingularity-engine)](https://www.npmjs.com/package/@civitas-cerebrum/singularity-engine)
+
+**[test-coverage](https://github.com/civitas-cerebrum/test-coverage)**
+
+Static-analysis tool (TypeScript AST) that enforces **100% API coverage** in test suites, with CI-friendly reporters — GitHub table, HTML, JSON and badges.
+
+[![npm](https://img.shields.io/npm/v/@civitas-cerebrum/test-coverage?color=brightgreen&label=%40civitas-cerebrum%2Ftest-coverage)](https://www.npmjs.com/package/@civitas-cerebrum/test-coverage)
+
+**[email-client](https://github.com/civitas-cerebrum/email-client)**
+
+Zero-dependency TypeScript SMTP/IMAP client purpose-built for E2E flows (signup → verification → click-through).
+
+[![npm](https://img.shields.io/npm/v/@civitas-cerebrum/email-client?color=brightgreen&label=%40civitas-cerebrum%2Femail-client)](https://www.npmjs.com/package/@civitas-cerebrum/email-client)
+
+**Jarvis**
+
+Local, privacy-preserving **voice-driven QA copilot**. Audio pipeline: Silero VAD → GTCRN denoise → WeSpeaker speaker verification → Whisper STT → LLM → Kokoro TTS. Exposes an MCP server so Claude Code can be driven entirely by voice.
 
 ## PERSONAL OPEN-SOURCE LIBRARIES
 
@@ -192,7 +213,7 @@ Check out the latest version ***[here](https://github.com/Umutayb/Java-Utilities
 
 **Context Store**
 
-Provides utility classes for managing thread-safe context storage and secret property handling. Dual-platform — published on both Maven Central and npm.
+Utility classes for thread-safe context storage and secret property handling. Dual-platform — published on both Maven Central and npm.
 
 Check it out ***[here](https://github.com/Umutayb/context-store)***.
 
@@ -200,9 +221,7 @@ Check it out ***[here](https://github.com/Umutayb/context-store)***.
 
 ***Ollama API***
 
-Integrate LLMs into your Java projects in seconds. Built to streamline LLM integration in Java — no manual JSON parsing or brittle API calls. Provide a prompt and a target class; the library returns structured, type-safe responses.
-
-Ideal for chatbots, AI tools, agents and internal LLM utilities.
+Integrate LLMs into your Java projects in seconds. Built to streamline LLM integration in Java — no manual JSON parsing or brittle API calls. Provide a prompt and a target class; the library returns structured, type-safe responses. Ideal for chatbots, AI tools, agents and internal LLM utilities.
 
 Check it out ***[here](https://github.com/umutayb/ollama-api)***.
 
@@ -216,29 +235,14 @@ Check it out ***[here](https://github.com/Umutayb/secret-santa)***.
 
 ## AUTONOMOUS AGENTS & AI DATA PIPELINES
 
-Original research projects that combine my own libraries (Pickleib, Wasapi, Ollama-API) with vision and language models to build end-to-end autonomous agents.
+Research projects that combine my own libraries (Pickleib, Wasapi, Ollama-API) with vision and language models to build end-to-end autonomous agents.
 
-- ***Napoleon*** — Java-based autonomous web agent. Selenium-driven browser control through Pickleib, vision-based UI understanding via a custom OmniParser Java client, and decision-making through my Ollama-API library. Features a dedicated **Nexus** reasoning core with structured action models (`NapoleonAction`, `ActionType`, `PastAction`), a `Commandments` policy layer and a `ValidationResponse` self-check loop — i.e. perceive → classify → decide → validate → act, fully in Java.
-- ***T-800*** — Autonomous agent focused on adversarial web navigation, including a **vision-LLM-driven CAPTCHA resolver** (`fucaptcha` module) that crops candidate elements, queries a vision LLM for target indexes and assembles a verdict. Built on Selenium 4.19 and my Utilities library.
-- ***EMTP (Expert Model Training Pipeline)*** — Python pipeline for producing training datasets for domain-expert AI models. Modular acquisition → enrichment → questions architecture, DuckDuckGo search with dorking support, Firecrawl-based markdown scraping (local or hosted), Unicode normalisation and Q&A-pair generation. Supports both interactive and non-interactive CLI execution.
+- ***Napoleon*** — Java-based autonomous web agent. Selenium-driven browser control through Pickleib, vision-based UI understanding via a custom Java client, and decision-making through my Ollama-API library. Features a dedicated **Nexus** reasoning core with structured action models, a `Commandments` policy layer and a `ValidationResponse` self-check loop — perceive → classify → decide → validate → act, fully in Java.
+- ***T-800*** — Autonomous agent focused on adversarial web navigation, including a **vision-LLM-driven CAPTCHA resolver** that crops candidate elements, queries a vision LLM for target indexes and assembles a verdict. Built on Selenium 4.19 and my Utilities library.
+- ***EMTP (Expert Model Training Pipeline)*** — Python pipeline for producing training datasets for domain-expert AI models. Modular acquisition → enrichment → questions architecture, DuckDuckGo search with dorking support, Firecrawl-based markdown scraping, Unicode normalisation and Q&A-pair generation. Supports both interactive and non-interactive CLI execution.
 
 ## PRODUCT & FULL-STACK PROJECTS
 
 - **BookHive** — A production-grade full-stack bookstore (React 18, Spring Boot 3, MongoDB, Docker Compose) intentionally designed as an automation-friendly reference app: stable `data-testid` attributes, deterministic `/api/seed` and `/api/reset` endpoints, JWT + HttpOnly-cookie dual auth, and a real cart/order flow used as a canonical target for the Civitas Cerebrum ecosystem.
-- **Vue / Android / iOS Test Apps** — A family of multi-platform reference applications (37-component Vue 3 playground, native Kotlin, native Swift) used as public testing sandboxes for validating cross-platform automation frameworks.
-- **Marvellous** — Turborepo-based commerce monorepo (Node 24, Prisma, Ollama, Sanity CMS, Playwright) deployed on Vercel; demonstrates modern monorepo architecture, coverage gating and CI orchestration.
-- **FoldCraft MVP & Food Planner** — Next.js / Firebase and TailwindCSS experiments in productivity and lifestyle domains.
-- **CitizenM Goodbits APIs** — Large-scale **.NET / C# Azure Functions** monorepo coordinating 30+ microservices: Adyen payment integration, durable orchestrations, managed identity auth, feature-flag gated deployments, Serilog-based observability.
-- **Ahold Payment API Case** — Java / Cucumber BDD automation framework for a complex shopping-basket API, performing multi-layer verification (business logic, schema, persistence) and documenting six production bugs discovered during testing.
-
-## HARDWARE / SYSTEMS ENGINEERING
-
-**[PLFM_RADAR](https://github.com/Umutayb)** — A fully open-source **10.5 GHz phased-array radar system**, released under CERN-OHL-P (hardware) + MIT (software).
-
-- FPGA-based real-time signal processing on a Xilinx XC7A50T (pulse compression, Doppler FFT, CFAR detection).
-- STM32 microcontroller orchestrating 16 RF frontend chips, 4 beamforming phase shifters and clock generators.
-- Python GUI with map integration for live target visualisation.
-- Dual antenna array configurations (3 km and 20 km effective range).
-- Ships with complete schematics, PCB production files, firmware and documentation.
-
-A personal R&D project demonstrating depth in FPGA / VHDL design, RF engineering and embedded systems — well beyond typical application-layer software.
+- **Vue / Android / iOS Test Apps** — A family of multi-platform reference applications (Vue 3 playground, native Android, native iOS) used as public testing sandboxes for validating cross-platform automation frameworks.
+- **Food Planner** — Lightweight personal web app exploring productivity and lifestyle workflows.
