@@ -22,10 +22,9 @@ For the past year my primary focus has been designing and building a **fully aut
 **Quality Assurance Architect & Managing Consultant** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.01.2024 - present)_ <br>
 SpriteCloud is a consultancy providing software testing services & test results dashboards.
 - Assessed clients' quality assurance procedures to develop **Test Maturity Models** (TMM).
-- Designed new Software Development Lifecycle (SDLC) models that enabled an effective quality assurance discipline.
+- Designed new Software Development Lifecycle (SDLC) models for various clients that enabled an effective quality assurance discipline.
 - Determined the necessary amount of QA resource per work stream while managing the QA team within organisations to maximise the effectiveness and efficiency of QA practices.
-- Developed performance measurement strategies to ensure continuity of performance and career growth of QA Engineers.
-  - Helped the group of consultants in my team establish KPIs.
+- Developed performance measurement strategies to ensure continuity of performance and career growth of QA Engineers, helping the group of consultants in my team establish KPIs.
 - Trained & supported QA Engineers to excel at software development & test automation.
 - Designed and rolled out a **new SDLC for [MR MARVIS](https://www.mrmarvis.com)**, aligning development, QA and release practices into a coherent delivery model.
 - Lead innovation as the **Guild Lead of Innovation**.
@@ -35,7 +34,7 @@ SpriteCloud is a consultancy providing software testing services & test results 
   - Led the design of **AI-native test authoring workflows** adopted internally by consultants, bringing LLM-assisted test generation into day-to-day delivery.
 <br><br>
 
-**Quality Assurance Solution Owner** ***@[citizenM hotels](https://www.citizenm.com/company/overview)*** _(01.03.2022 - Present)_ <br>
+**Quality Assurance Solution Owner** ***@[citizenM hotels](https://www.citizenm.com/company/overview)*** _(01.03.2022 - 31.01.2026)_ <br>
 citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 - Tasked with inspecting the entirety of citizenM's software development practices to develop a **Test Maturity Model**.
 - Created an extensive TMM covering five stages of quality assurance maturity & uncovering potential optimisations.
