@@ -70,6 +70,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 <br><br>
 
 **Senior Test Automation Engineer** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - 01.01.2024)_ <br>
+SpriteCloud is a consultancy providing software testing services & test results dashboards.
 - Expanded expertise in additional CI tools and automation frameworks including:
   - ***GitLab CI***
   - Parallelisation with ***Knapsack*** (for Cypress, Jest, RSpec, etc.)
