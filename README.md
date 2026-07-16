@@ -115,10 +115,10 @@ Programming is my passion — I build reusable modules and publish them as open 
 
 ## PRODUCT & FULL-STACK PROJECTS
 
-- **BookHive** — A production-grade full-stack bookstore (React 18, Spring Boot 3, MongoDB, Docker Compose) intentionally designed as an automation-friendly reference app: stable `data-testid` attributes, deterministic `/api/seed` and `/api/reset` endpoints, JWT + HttpOnly-cookie dual auth, and a real cart/order flow used as a canonical target for the Civitas Cerebrum ecosystem. Published as ready-to-run Docker images on **[Docker Hub](https://hub.docker.com/u/umutayb)** (`umutayb/book-hive-frontend` · `umutayb/book-hive-backend`).
+- **BookHive** — A full-stack bookstore with a React frontend, a Spring Boot backend and a MongoDB database, built as an automation-friendly reference app for exercising the Civitas Cerebrum testing ecosystem. Published as ready-to-run Docker images on **[Docker Hub](https://hub.docker.com/u/umutayb)**.
 - **Vue / Android / iOS Test Apps** — A family of multi-platform reference applications ([Vue 3 playground](https://civitas-cerebrum.github.io/vue-test-app/), native Android, native iOS) used as public testing sandboxes for validating cross-platform automation frameworks.
 - **Food Planner** — Lightweight personal web app exploring productivity and lifestyle workflows.
 
 ## EDUCATION
 
-**Istanbul Technical University** — Geological Engineering
+**[Istanbul Technical University](https://www.itu.edu.tr/en)** — Geological Engineering
