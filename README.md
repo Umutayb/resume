@@ -17,7 +17,7 @@ With **7+ years** across test automation, QA leadership and software delivery, I
 ## WORK EXPERIENCE
 
 **Quality Assurance Architect & Managing Consultant** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.01.2024 - present)_ <br>
-SpriteCloud is a consultancy providing software testing services & test results dashboards.
+spriteCloud is a consultancy providing software testing services & test results dashboards.
 - **Architect clients' QA landscapes end-to-end**: assess practices through **Test Maturity Models** (TMM), design Software Development Lifecycle (SDLC) models that embed an effective quality assurance discipline, and size the QA capacity each work stream needs.
 - **Architected a desktop-to-database end-to-end test automation solution** that secured a major client engagement with **Ahold Delhaize**.
 - **BlueHero** (AI-powered applicant tracking system — Next.js, NestJS, Supabase):
@@ -27,7 +27,7 @@ SpriteCloud is a consultancy providing software testing services & test results 
   - Designed a two-stage GitHub Actions pipeline (core E2E in ~2 minutes, AI run in ~25 minutes) that auto-posts transcripts and verdicts to pull requests.
 - **Farmedvisie / Medicheck** (two-portal medication-administration platform, healthcare):
   - Delivered a **durable E2E suite covering 34 user journeys — 528 passing tests, 0 failing** across both portals, written against an intent-level API so it survives UI re-renders, in a run of ~18 minutes against the live acceptance environment.
-  - Ran an **adversarial security audit surfacing ~470 findings (36 critical, 71 high)** with live reproductions — including a cross-tenant IDOR family exposing patient records and Dutch-regulated BSN identifiers across organisations, and a Spring Boot Actuator account-takeover chain.
+  - Ran an **adversarial security audit surfacing ~470 findings (36 critical, 71 high)** with live reproductions, uncovering critical authorization and misconfiguration vulnerabilities across the platform.
   - Engineered a **regression-sentinel layer of 211 tests** — each documents a confirmed bug and turns green automatically the moment its backend fix ships, with no manual re-test.
 - **[MR MARVIS](https://www.mrmarvis.com)**: designed and rolled out a **new SDLC** aligning development, QA and release practices, delivered an easy-to-scale Playwright solution for developers, and built an **AI Playwright Test Writer** generating ready-to-run test scenarios from user journeys gathered in a spreadsheet.
 - Built performance measurement frameworks and KPIs for my team of consultants; trained & mentored QA Engineers in software development and test automation.
@@ -38,7 +38,7 @@ SpriteCloud is a consultancy providing software testing services & test results 
 <br><br>
 
 **Quality Assurance Solution Owner** ***@[citizenM hotels](https://www.citizenm.com/company/overview)*** _(01.03.2022 - 31.01.2026)_ <br>
-citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
+citizenM is a Netherlands-based hotel developer, investor, and hotel chain — a **spriteCloud client** where I was embedded as their QA Solution Owner.
 - ***Architect-scope ownership of quality across the organisation:*** audited the entirety of citizenM's software development practices to produce a five-stage **Test Maturity Model**, then designed the centralised QA approach it called for and managed the transition.
 - ***Founded the QA team*** to raise quality standards across citizenM's product lineup:
   - Hired, trained and managed engineers providing QA to several product teams, reallocating resources as test workload shifted.
@@ -59,7 +59,7 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 <br><br>
 
 **Senior Test Automation Engineer** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - 01.01.2024)_ <br>
-SpriteCloud is a consultancy providing software testing services & test results dashboards.
+spriteCloud is a consultancy providing software testing services & test results dashboards.
 - Delivered client engagements across ***GitLab CI***, ***Knapsack*** parallelisation (Cypress, Jest, RSpec), automated vulnerability & security testing (***ZAProxy***, ***Burp Suite***), **Cypress** & **Jest** automation, and automated bug reporting via ***Jira*** & ***Trello*** integrations.
 - Published a ***[Test Automation Template](https://github.com/Umutayb/test-automation-template)*** covering **web UI and mobile UI** test automation examples, built on my ***[Pickleib](https://github.com/Umutayb/Pickleib)*** library (**Java**, Selenium & Appium), capable of ***parallel test execution*** (multithreaded and/or via BrowserStack).
 - Published an ***[API Automation Template](https://github.com/Umutayb/api-test-automation-template)*** built on my API automation library ***[Wasapi](https://github.com/Umutayb/wasapi)*** (**Java**, ***Retrofit2*** & ***OkHttp3***), capable of ***parallel test execution***, ***request interception*** & ***advanced header management***.
