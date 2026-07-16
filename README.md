@@ -61,9 +61,8 @@ citizenM is a Netherlands-based hotel developer, investor, and hotel chain.
 **Senior Test Automation Engineer** ***@[spriteCloud](https://www.spritecloud.com)*** _(01.12.2021 - 01.01.2024)_ <br>
 SpriteCloud is a consultancy providing software testing services & test results dashboards.
 - Delivered client engagements across ***GitLab CI***, ***Knapsack*** parallelisation (Cypress, Jest, RSpec), automated vulnerability & security testing (***ZAProxy***, ***Burp Suite***), **Cypress** & **Jest** automation, and automated bug reporting via ***Jira*** & ***Trello*** integrations.
-- Published a ***[Mobile UI Test Automation Template](https://github.com/Umutayb/Mobile-Automation-Sample)*** utilising my mobile automation library ***[Mobileib](https://github.com/Umutayb/Mobileib)***, built on **Java & Appium**, capable of ***parallel test execution*** (multithreaded and/or via BrowserStack).
-- Published an ***[API Automation Template](https://github.com/Umutayb/Api-Automation-Sample)*** utilising my API automation library ***[Api Assured](https://github.com/Umutayb/Api-Assured)***, built on ***Java***, ***Retrofit2*** & ***OkHttp3***, capable of ***parallel test execution***, ***request interception*** & ***advanced header management***.
-- Improved upon the ***[Web UI Automation Template](https://github.com/Umutayb/Web-Automation-Sample-Cucumber)*** & the web UI automation library ***[Pickleib](https://github.com/Umutayb/Pickleib)***.
+- Published a ***[Test Automation Template](https://github.com/Umutayb/test-automation-template)*** covering **web UI and mobile UI** test automation examples, built on my ***[Pickleib](https://github.com/Umutayb/Pickleib)*** library (**Java**, Selenium & Appium), capable of ***parallel test execution*** (multithreaded and/or via BrowserStack).
+- Published an ***[API Automation Template](https://github.com/Umutayb/api-test-automation-template)*** built on my API automation library ***[Wasapi](https://github.com/Umutayb/wasapi)*** (**Java**, ***Retrofit2*** & ***OkHttp3***), capable of ***parallel test execution***, ***request interception*** & ***advanced header management***.
 - Improved test result monitoring using Calliope.pro & Allure for more insightful reporting.
 <br><br>
 
