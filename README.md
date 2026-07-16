@@ -1,6 +1,6 @@
 # Quality Assurance Architect
 
-_Test Automation Architect · Agentic Quality Assurance_ <br>
+_Agentic Quality Assurance · Test Automation Architect_ <br>
 📌 **[Endorsements](https://www.linkedin.com/in/umutayb/details/recommendations/)**
 
 With **7+ years** across test automation, QA leadership and software delivery, I architect quality assurance for organisations: the SDLC, the strategy, the frameworks, and the teams. 
