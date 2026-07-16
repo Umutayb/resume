@@ -1,6 +1,7 @@
 # Quality Assurance Architect
 
 _Test Automation Architect · Agentic Quality Assurance_ <br>
+📌 **[Endorsements](https://www.linkedin.com/in/umutayb/details/recommendations/)**
 
 With **7+ years** across test automation, QA leadership and software delivery, I architect quality assurance for organisations — the SDLC, the strategy, the frameworks and the teams. My focus is raising quality while cutting the cost of recurring engineering work: test management, test automation architecture across every platform, and — for the past year — **designing and building autonomous QA agents for fully agentic quality assurance**, where a single install turns an AI agent loose to discover an application, author its test suite, expand coverage, hunt bugs, triage failures and report to stakeholders. I design the architecture, build the frameworks and agents, and grow the culture that delivers it.
 
@@ -114,8 +115,8 @@ Programming is my passion — I build reusable modules and publish them as open 
 
 ## PRODUCT & FULL-STACK PROJECTS
 
-- **BookHive** — A production-grade full-stack bookstore (React 18, Spring Boot 3, MongoDB, Docker Compose) intentionally designed as an automation-friendly reference app: stable `data-testid` attributes, deterministic `/api/seed` and `/api/reset` endpoints, JWT + HttpOnly-cookie dual auth, and a real cart/order flow used as a canonical target for the Civitas Cerebrum ecosystem.
-- **Vue / Android / iOS Test Apps** — A family of multi-platform reference applications (Vue 3 playground, native Android, native iOS) used as public testing sandboxes for validating cross-platform automation frameworks.
+- **BookHive** — A production-grade full-stack bookstore (React 18, Spring Boot 3, MongoDB, Docker Compose) intentionally designed as an automation-friendly reference app: stable `data-testid` attributes, deterministic `/api/seed` and `/api/reset` endpoints, JWT + HttpOnly-cookie dual auth, and a real cart/order flow used as a canonical target for the Civitas Cerebrum ecosystem. Published as ready-to-run Docker images on **[Docker Hub](https://hub.docker.com/u/umutayb)** (`umutayb/book-hive-frontend` · `umutayb/book-hive-backend`).
+- **Vue / Android / iOS Test Apps** — A family of multi-platform reference applications ([Vue 3 playground](https://civitas-cerebrum.github.io/vue-test-app/), native Android, native iOS) used as public testing sandboxes for validating cross-platform automation frameworks.
 - **Food Planner** — Lightweight personal web app exploring productivity and lifestyle workflows.
 
 ## EDUCATION
