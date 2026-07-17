@@ -5,7 +5,7 @@ _Agentic Quality Assurance · Test Automation Architect_ <br>
 
 With **7+ years** across test automation, QA leadership and software delivery, I architect quality assurance for organisations: the SDLC, the strategy, the frameworks, and the teams. 
 
-My mission is to *accelerate releases without compromising quality* while cutting the cost of recurring engineering work: test management, test automation architecture across every platform, and — for the past year — **designing and building autonomous QA agents for fully agentic quality assurance**, where a single install turns an AI agent loose to discover an application, author its test suite, expand coverage, hunt bugs, triage failures and report to stakeholders. I design the architecture, build the frameworks and agents, and grow the culture that delivers it.
+My mission is to *accelerate releases without compromising quality* while cutting the cost of recurring engineering work: test management and test automation architecture across every platform. I design the architecture, build the frameworks and agents, and grow the culture that delivers it.
 
 ## CORE EXPERTISE
 
