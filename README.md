@@ -16,6 +16,7 @@ My mission is to *accelerate releases without compromising quality* while cuttin
 - **Open-Source Library Design** — Published multiple Maven Central and npm libraries used in production testing ecosystems.
 - **CI/CD & DevOps for QA** — Azure DevOps, GitHub Actions, GitLab CI, Jenkins, pipeline parallelisation, Docker, Allure / Calliope / Slack reporting integrations.
 - **Languages & Stacks** — Java, TypeScript / Node, Python, Swift. Spring Boot, Playwright, Selenium, Appium, Cucumber, Retrofit & more.
+- **LLM Platform & GenAI Engineering** — Fine-tuning, RAG, MCP servers, agentic CLI tooling, harnesses & skill development, and local / self-hosted LLM deployment (Open WebUI).
 
 ## WORK EXPERIENCE
 
@@ -39,8 +40,9 @@ spriteCloud is a consultancy providing software testing services & test results 
 
 **Firm-level leadership**
 - **Managing Consultant** — stepped up to help spriteCloud restructure and grow: shaping **roles, titles and compensation**, designing the **performance-review process**, and building company culture through team events.
-- **Innovation Lead** — led spriteCloud's AI strategy, founding **Quail**, the firm's internal AI platform (LLM assistant models, a shared hub model and AI-assisted QA tooling):
+- **Innovation Lead** — led spriteCloud's AI strategy, founding **Quail**, the firm's internal **LLM platform** spanning **fine-tuning**, **RAG**, **MCP servers**, **agentic CLI tooling, harnesses & skill development**, and a shared hub model for LLM-assisted QA:
   - Led the design of **AI-native test authoring workflows** adopted internally by consultants.
+  - Contributed to **[Open WebUI](https://github.com/open-webui/open-webui)**, bringing local, self-hosted LLMs into the firm.
   - Built an easy-to-deploy **CV solution** modernising consultancy CV practices (the system rendering this document).
 - **Thought leadership** — spoke at BrowserStack × spriteCloud events: *"Let's (not) talk about AI"* and *"Limitations of LLMs & the CAPTCHA Problem."*
 - **Mentored 7+ consultants** through technical and professional growth, and built performance-measurement frameworks and KPIs for my team.

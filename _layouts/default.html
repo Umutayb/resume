@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  {% seo %}
+  <link rel="icon" href="{{ '/assets/img/logo.png' | relative_url }}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg:#0a0a0b; --bg-2:#101012;
+      --ink:#edeef1; --ink-soft:#c3c4ca; --muted:#8b8d95; --faint:#64666e;
+      --accent:#34d399; --accent-dim:#10b981; --purple:#c088f7;
+      --rule:rgba(255,255,255,.11); --rule-2:rgba(255,255,255,.06); --chip:rgba(255,255,255,.06);
+    }
+    * { box-sizing:border-box; }
+    html,body { margin:0; padding:0; background:var(--bg); }
+    body {
+      color:var(--ink);
+      font-family:'Inter',system-ui,-apple-system,sans-serif;
+      font-size:16px; line-height:1.6;
+      background:
+        radial-gradient(60% 55% at 88% -8%, rgba(168,85,247,.10), transparent 60%),
+        radial-gradient(55% 50% at 2% -2%, rgba(16,185,129,.12), transparent 55%),
+        var(--bg);
+      background-attachment:fixed;
+    }
+    .wrap { max-width:880px; margin:0 auto; padding:56px 28px 96px; }
+
+    /* ---------- hero ---------- */
+    .hero { display:flex; align-items:center; justify-content:space-between; gap:20px; flex-wrap:wrap;
+            padding-bottom:22px; border-bottom:1px solid var(--rule); }
+    .hero .name { font-size:clamp(30px,6vw,44px); font-weight:800; letter-spacing:-.02em; color:#fff; line-height:1; }
+    .social { display:flex; gap:10px; }
+    .social a { display:inline-flex; align-items:center; justify-content:center; width:38px; height:38px;
+                border:1px solid var(--rule); border-radius:10px; color:var(--muted);
+                transition:all .18s ease; background:var(--bg-2); }
+    .social a:hover { color:var(--accent); border-color:rgba(16,185,129,.4); transform:translateY(-2px); }
+    .social svg { width:17px; height:17px; }
+
+    /* ---------- markdown content ---------- */
+    .cv { margin-top:8px; }
+    .cv h1 { font-size:20px; font-weight:600; color:var(--accent); letter-spacing:.01em; margin:22px 0 2px; }
+    .cv h1 + p { margin-top:2px; }
+
+    .cv h2 {
+      font-size:13px; font-weight:700; letter-spacing:.18em; text-transform:uppercase; color:var(--purple);
+      margin:40px 0 16px; padding-bottom:8px; border-bottom:1px solid var(--rule);
+    }
+    .cv h3 { font-size:15px; color:var(--ink); margin:22px 0 6px; }
+
+    .cv p { margin:9px 0; color:var(--ink-soft); }
+    .cv strong { color:#fff; font-weight:600; }
+    .cv em { color:var(--muted); font-style:italic; }
+    .cv a { color:var(--accent); text-decoration:none; border-bottom:1px solid transparent; transition:border-color .15s; }
+    .cv a:hover { border-bottom-color:rgba(52,211,153,.5); }
+
+    /* subtle emphasis normalization: bold-italic (***) used for tools shouldn't scream */
+    .cv em strong, .cv strong em { color:var(--accent); font-weight:600; font-style:normal; }
+
+    /* role header line: **Title** ***@company*** _(dates)_ */
+    .cv p > strong:first-child { color:#fff; }
+
+    /* sub-labels that are a whole bold paragraph (Client Engagements / Firm-level leadership) */
+    .cv p > strong:only-child {
+      display:block; margin-top:14px; font-size:12px; font-weight:700;
+      letter-spacing:.12em; text-transform:uppercase; color:var(--ink-soft);
+    }
+
+    /* lists */
+    .cv ul { list-style:none; margin:10px 0; padding-left:0; }
+    .cv li { position:relative; padding-left:20px; margin:7px 0; color:var(--ink-soft); }
+    .cv li::before { content:""; position:absolute; left:3px; top:.62em; width:5px; height:5px; border-radius:50%; background:var(--accent); }
+    .cv li ul { margin:8px 0 4px; }
+    .cv li li { color:var(--muted); font-size:.96em; }
+    .cv li li::before { background:var(--faint); width:4px; height:4px; }
+
+    .cv code { font-family:'JetBrains Mono',monospace; font-size:.86em; color:var(--accent); background:var(--chip); padding:2px 6px; border-radius:5px; }
+    .cv pre { background:var(--bg-2); border:1px solid var(--rule); border-radius:10px; padding:14px 16px; overflow:auto; }
+    .cv pre code { background:none; color:var(--ink-soft); padding:0; }
+
+    /* shields badges */
+    .cv img { vertical-align:middle; height:20px; margin-left:2px; }
+    /* spacing rows produced by <br><br> */
+    .cv br { line-height:0; }
+
+    hr { border:0; border-top:1px solid var(--rule); margin:28px 0; }
+
+    footer { max-width:880px; margin:0 auto; padding:0 28px 40px; color:var(--faint);
+             font-family:'JetBrains Mono',monospace; font-size:11px; letter-spacing:.06em; text-align:center; }
+
+    @media (max-width:560px) {
+      .wrap { padding:36px 18px 64px; }
+      body { font-size:15px; }
+      .cv h2 { margin-top:32px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <div class="name">{{ site.title }}</div>
+      <nav class="social">
+        {% for item in site.sidebar %}
+        <a href="{{ item.link }}" title="{{ item.name }}" aria-label="{{ item.name }}">{{ item.icon }}</a>
+        {% endfor %}
+      </nav>
+    </header>
+
+    <main class="cv">
+      {{ content }}
+    </main>
+  </div>
+  <footer>UMUT AY BORA · QUALITY ASSURANCE ARCHITECT · umutaybora@gmail.com</footer>
+</body>
+</html>
